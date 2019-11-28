@@ -1,5 +1,11 @@
 [
   {
+    "package": "beers",
+    "url": "https://github.com/mrc-ide/beers",
+    "via": ["specio"],
+    "from": "specio"
+  },
+  {
     "package": "context",
     "url": "https://github.com/mrc-ide/context",
     "via": ["didehpc"],

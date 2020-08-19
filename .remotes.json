@@ -1,0 +1,32 @@
+[
+  {
+    "package": "context",
+    "url": "https://github.com/mrc-ide/context",
+    "via": ["didehpc"],
+    "from": "didehpc"
+  },
+  {
+    "package": "heartbeatr",
+    "url": "https://github.com/mrc-ide/heartbeatr",
+    "via": ["didehpc", "rrq"],
+    "from": "didehpc"
+  },
+  {
+    "package": "provisionr",
+    "url": "https://github.com/mrc-ide/provisionr",
+    "via": ["didehpc"],
+    "from": "didehpc"
+  },
+  {
+    "package": "queuer",
+    "url": "https://github.com/mrc-ide/queuer",
+    "via": ["didehpc"],
+    "from": "didehpc"
+  },
+  {
+    "package": "rrq",
+    "url": "https://github.com/mrc-ide/rrq",
+    "via": ["didehpc"],
+    "from": "didehpc"
+  }
+]

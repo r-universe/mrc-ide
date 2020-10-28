@@ -12,6 +12,18 @@
     "from": "didehpc"
   },
   {
+    "package": "dust",
+    "url": "https://github.com/mrc-ide/dust",
+    "via": ["mcstate"],
+    "from": "mcstate"
+  },
+  {
+    "package": "dust",
+    "url": "https://github.com/mrc-ide/dust",
+    "via": ["mcstate", "odin.dust"],
+    "from": "mcstate"
+  },
+  {
     "package": "heartbeatr",
     "url": "https://github.com/mrc-ide/heartbeatr",
     "via": ["didehpc", "rrq"],
@@ -22,6 +34,12 @@
     "url": "https://github.com/ropensci/jsonvalidate",
     "via": ["porcelain"],
     "from": "porcelain"
+  },
+  {
+    "package": "odin.dust",
+    "url": "https://github.com/mrc-ide/odin.dust",
+    "via": ["mcstate"],
+    "from": "mcstate"
   },
   {
     "package": "provisionr",

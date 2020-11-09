@@ -24,6 +24,12 @@
     "from": "mcstate"
   },
   {
+    "package": "dust",
+    "url": "https://github.com/mrc-ide/dust",
+    "via": ["odin.dust"],
+    "from": "odin.dust"
+  },
+  {
     "package": "heartbeatr",
     "url": "https://github.com/mrc-ide/heartbeatr",
     "via": ["didehpc", "rrq"],

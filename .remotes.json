@@ -18,6 +18,12 @@
     "from": "didehpc"
   },
   {
+    "package": "jsonvalidate",
+    "url": "https://github.com/ropensci/jsonvalidate",
+    "via": ["porcelain"],
+    "from": "porcelain"
+  },
+  {
     "package": "provisionr",
     "url": "https://github.com/mrc-ide/provisionr",
     "via": ["didehpc"],

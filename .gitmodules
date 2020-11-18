@@ -1,0 +1,4 @@
+[submodule ".registry"]
+	path = .registry
+	url = https://github.com/mrc-ide/universe/
+	branch = HEAD

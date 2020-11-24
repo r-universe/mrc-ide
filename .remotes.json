@@ -38,8 +38,20 @@
   {
     "package": "jsonvalidate",
     "url": "https://github.com/ropensci/jsonvalidate",
+    "via": ["odin.js"],
+    "from": "odin.js"
+  },
+  {
+    "package": "jsonvalidate",
+    "url": "https://github.com/ropensci/jsonvalidate",
     "via": ["porcelain"],
     "from": "porcelain"
+  },
+  {
+    "package": "odin",
+    "url": "https://github.com/mrc-ide/odin",
+    "via": ["odin.js"],
+    "from": "odin.js"
   },
   {
     "package": "odin.dust",

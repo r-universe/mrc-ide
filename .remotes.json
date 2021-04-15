@@ -12,6 +12,12 @@
     "from": "didehpc"
   },
   {
+    "package": "context",
+    "url": "https://github.com/mrc-ide/context",
+    "via": ["queuer"],
+    "from": "queuer"
+  },
+  {
     "package": "dust",
     "url": "https://github.com/mrc-ide/dust",
     "via": ["mcstate"],

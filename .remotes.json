@@ -6,9 +6,21 @@
     "from": "specio"
   },
   {
+    "package": "conan",
+    "url": "https://github.com/mrc-ide/conan",
+    "via": ["didehpc"],
+    "from": "didehpc"
+  },
+  {
     "package": "context",
     "url": "https://github.com/mrc-ide/context",
     "via": ["didehpc"],
+    "from": "didehpc"
+  },
+  {
+    "package": "context",
+    "url": "https://github.com/mrc-ide/context",
+    "via": ["didehpc", "queuer"],
     "from": "didehpc"
   },
   {
@@ -76,12 +88,6 @@
     "url": "https://github.com/mrc-ide/odin.dust",
     "via": ["mcstate"],
     "from": "mcstate"
-  },
-  {
-    "package": "provisionr",
-    "url": "https://github.com/mrc-ide/provisionr",
-    "via": ["didehpc"],
-    "from": "didehpc"
   },
   {
     "package": "provisionr",

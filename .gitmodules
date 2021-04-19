@@ -141,3 +141,8 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "conan"]
+	path = conan
+	url = https://github.com/mrc-ide/conan
+	shallow = true
+	registered = false

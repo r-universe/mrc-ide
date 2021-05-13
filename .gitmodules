@@ -9,140 +9,164 @@
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "context"]
 	path = context
 	url = https://github.com/mrc-ide/context
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "queuer"]
 	path = queuer
 	url = https://github.com/mrc-ide/queuer
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "didehpc"]
 	path = didehpc
 	url = https://github.com/mrc-ide/didehpc
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "heartbeatr"]
 	path = heartbeatr
 	url = https://github.com/mrc-ide/heartbeatr
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "rrq"]
 	path = rrq
 	url = https://github.com/mrc-ide/rrq
 	shallow = true
 	branch = v0.1.2
 	registered = true
+	oncran = false
 [submodule "syncr"]
 	path = syncr
 	url = https://github.com/mrc-ide/syncr
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "buildr"]
 	path = buildr
 	url = https://github.com/mrc-ide/buildr
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "odin"]
 	path = odin
 	url = https://github.com/mrc-ide/odin
 	shallow = true
 	branch = master
 	registered = true
+	oncran = true
 [submodule "dde"]
 	path = dde
 	url = https://github.com/mrc-ide/dde
 	shallow = true
 	branch = master
 	registered = true
+	oncran = true
 [submodule "odin.ui"]
 	path = odin.ui
 	url = https://github.com/mrc-ide/odin.ui
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "odin.js"]
 	path = odin.js
 	url = https://github.com/mrc-ide/odin.js
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "vaultr"]
 	path = vaultr
 	url = https://github.com/vimc/vaultr
 	shallow = true
 	branch = master
 	registered = true
+	oncran = true
 [submodule "nomad"]
 	path = nomad
 	url = https://github.com/reconhub/nomad
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "beers"]
 	path = beers
 	url = https://github.com/mrc-ide/beers
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "specio"]
 	path = specio
 	url = https://github.com/mrc-ide/specio
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "traduire"]
 	path = traduire
 	url = https://github.com/reside-ic/traduire
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "defer"]
 	path = defer
 	url = https://github.com/reside-ic/defer
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "porcelain"]
 	path = porcelain
 	url = https://github.com/reside-ic/porcelain
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "jsonvalidate"]
 	path = jsonvalidate
 	url = https://github.com/ropensci/jsonvalidate
 	shallow = true
 	branch = master
 	registered = true
+	oncran = true
 [submodule "dust"]
 	path = dust
 	url = https://github.com/mrc-ide/dust
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "mcstate"]
 	path = mcstate
 	url = https://github.com/mrc-ide/mcstate
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "odin.dust"]
 	path = odin.dust
 	url = https://github.com/mrc-ide/odin.dust
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "conan"]
 	path = conan
 	url = https://github.com/mrc-ide/conan
 	shallow = true
 	registered = false
+	oncran = false

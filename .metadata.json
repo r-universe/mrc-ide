@@ -1,0 +1,94 @@
+[
+  {
+    "package": "provisionr",
+    "oncran": false
+  },
+  {
+    "package": "context",
+    "oncran": false
+  },
+  {
+    "package": "queuer",
+    "oncran": false
+  },
+  {
+    "package": "didehpc",
+    "oncran": false
+  },
+  {
+    "package": "heartbeatr",
+    "oncran": false
+  },
+  {
+    "package": "rrq",
+    "oncran": false
+  },
+  {
+    "package": "syncr",
+    "oncran": false
+  },
+  {
+    "package": "buildr",
+    "oncran": false
+  },
+  {
+    "package": "odin",
+    "oncran": true
+  },
+  {
+    "package": "dde",
+    "oncran": true
+  },
+  {
+    "package": "odin.ui",
+    "oncran": false
+  },
+  {
+    "package": "odin.js",
+    "oncran": false
+  },
+  {
+    "package": "vaultr",
+    "oncran": true
+  },
+  {
+    "package": "nomad",
+    "oncran": false
+  },
+  {
+    "package": "beers",
+    "oncran": false
+  },
+  {
+    "package": "specio",
+    "oncran": false
+  },
+  {
+    "package": "traduire",
+    "oncran": false
+  },
+  {
+    "package": "defer",
+    "oncran": false
+  },
+  {
+    "package": "porcelain",
+    "oncran": false
+  },
+  {
+    "package": "jsonvalidate",
+    "oncran": true
+  },
+  {
+    "package": "dust",
+    "oncran": false
+  },
+  {
+    "package": "mcstate",
+    "oncran": false
+  },
+  {
+    "package": "odin.dust",
+    "oncran": false
+  }
+]

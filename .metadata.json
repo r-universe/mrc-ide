@@ -1,31 +1,24 @@
 [
   {
-    "package": "provisionr",
-    "oncran": false
+    "package": "provisionr"
   },
   {
-    "package": "context",
-    "oncran": false
+    "package": "context"
   },
   {
-    "package": "queuer",
-    "oncran": false
+    "package": "queuer"
   },
   {
-    "package": "didehpc",
-    "oncran": false
+    "package": "didehpc"
   },
   {
-    "package": "heartbeatr",
-    "oncran": false
+    "package": "heartbeatr"
   },
   {
-    "package": "rrq",
-    "oncran": false
+    "package": "rrq"
   },
   {
-    "package": "syncr",
-    "oncran": false
+    "package": "syncr"
   },
   {
     "package": "buildr",
@@ -40,55 +33,44 @@
     "oncran": true
   },
   {
-    "package": "odin.ui",
-    "oncran": false
+    "package": "odin.ui"
   },
   {
-    "package": "odin.js",
-    "oncran": false
+    "package": "odin.js"
   },
   {
     "package": "vaultr",
     "oncran": true
   },
   {
-    "package": "nomad",
-    "oncran": false
+    "package": "nomad"
   },
   {
-    "package": "beers",
-    "oncran": false
+    "package": "beers"
   },
   {
-    "package": "specio",
-    "oncran": false
+    "package": "specio"
   },
   {
-    "package": "traduire",
-    "oncran": false
+    "package": "traduire"
   },
   {
-    "package": "defer",
-    "oncran": false
+    "package": "defer"
   },
   {
-    "package": "porcelain",
-    "oncran": false
+    "package": "porcelain"
   },
   {
     "package": "jsonvalidate",
     "oncran": true
   },
   {
-    "package": "dust",
-    "oncran": false
+    "package": "dust"
   },
   {
-    "package": "mcstate",
-    "oncran": false
+    "package": "mcstate"
   },
   {
-    "package": "odin.dust",
-    "oncran": false
+    "package": "odin.dust"
   }
 ]

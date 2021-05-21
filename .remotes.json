@@ -48,6 +48,13 @@
     "from": "odin.dust"
   },
   {
+    "package": "individual",
+    "url": "https://github.com/mrc-ide/individual",
+    "via": ["malariasimulation"],
+    "branch": "dev",
+    "from": "malariasimulation"
+  },
+  {
     "package": "jsonvalidate",
     "url": "https://github.com/ropensci/jsonvalidate",
     "via": ["odin.js"],
@@ -58,6 +65,18 @@
     "url": "https://github.com/ropensci/jsonvalidate",
     "via": ["porcelain"],
     "from": "porcelain"
+  },
+  {
+    "package": "malariaEquilibrium",
+    "url": "https://github.com/mrc-ide/malariaEquilibrium",
+    "via": ["malariasimulation"],
+    "from": "malariasimulation"
+  },
+  {
+    "package": "mockcpp",
+    "url": "https://github.com/mrc-ide/mockcpp",
+    "via": ["malariasimulation", "individual"],
+    "from": "malariasimulation"
   },
   {
     "package": "odin",

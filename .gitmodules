@@ -141,6 +141,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "malariasimulation"]
+	path = malariasimulation
+	url = https://github.com/mrc-ide/malariasimulation
+	shallow = true
+	branch = master
+	registered = true
 [submodule "conan"]
 	path = conan
 	url = https://github.com/mrc-ide/conan

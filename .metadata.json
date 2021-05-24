@@ -72,5 +72,8 @@
   },
   {
     "package": "odin.dust"
+  },
+  {
+    "package": "malariasimulation"
   }
 ]

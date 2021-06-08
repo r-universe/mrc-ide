@@ -156,7 +156,6 @@
 	path = individual
 	url = https://github.com/mrc-ide/individual
 	shallow = true
-	branch = dev
 	registered = false
 [submodule "malariaEquilibrium"]
 	path = malariaEquilibrium

@@ -51,7 +51,6 @@
     "package": "individual",
     "url": "https://github.com/mrc-ide/individual",
     "via": ["malariasimulation"],
-    "branch": "dev",
     "from": "malariasimulation"
   },
   {

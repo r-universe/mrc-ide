@@ -72,12 +72,6 @@
     "from": "malariasimulation"
   },
   {
-    "package": "mockcpp",
-    "url": "https://github.com/mrc-ide/mockcpp",
-    "via": ["malariasimulation", "individual"],
-    "from": "malariasimulation"
-  },
-  {
     "package": "odin",
     "url": "https://github.com/mrc-ide/odin",
     "via": ["mcstate", "odin.dust"],

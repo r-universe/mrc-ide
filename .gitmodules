@@ -162,8 +162,3 @@
 	url = https://github.com/mrc-ide/malariaEquilibrium
 	shallow = true
 	registered = false
-[submodule "mockcpp"]
-	path = mockcpp
-	url = https://github.com/mrc-ide/mockcpp
-	shallow = true
-	registered = false

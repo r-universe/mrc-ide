@@ -15,6 +15,18 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "queuer"]
+	path = queuer
+	url = https://github.com/mrc-ide/queuer
+	shallow = true
+	branch = master
+	registered = true
+[submodule "didehpc"]
+	path = didehpc
+	url = https://github.com/mrc-ide/didehpc
+	shallow = true
+	branch = master
+	registered = true
 [submodule "heartbeatr"]
 	path = heartbeatr
 	url = https://github.com/mrc-ide/heartbeatr
@@ -57,15 +69,33 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "odin.js"]
+	path = odin.js
+	url = https://github.com/mrc-ide/odin.js
+	shallow = true
+	branch = master
+	registered = true
 [submodule "vaultr"]
 	path = vaultr
 	url = https://github.com/vimc/vaultr
 	shallow = true
 	branch = master
 	registered = true
+[submodule "nomad"]
+	path = nomad
+	url = https://github.com/reconhub/nomad
+	shallow = true
+	branch = master
+	registered = true
 [submodule "beers"]
 	path = beers
 	url = https://github.com/mrc-ide/beers
+	shallow = true
+	branch = master
+	registered = true
+[submodule "specio"]
+	path = specio
+	url = https://github.com/mrc-ide/specio
 	shallow = true
 	branch = master
 	registered = true
@@ -81,6 +111,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "porcelain"]
+	path = porcelain
+	url = https://github.com/reside-ic/porcelain
+	shallow = true
+	branch = master
+	registered = true
 [submodule "jsonvalidate"]
 	path = jsonvalidate
 	url = https://github.com/ropensci/jsonvalidate
@@ -90,6 +126,24 @@
 [submodule "dust"]
 	path = dust
 	url = https://github.com/mrc-ide/dust
+	shallow = true
+	branch = master
+	registered = true
+[submodule "mcstate"]
+	path = mcstate
+	url = https://github.com/mrc-ide/mcstate
+	shallow = true
+	branch = master
+	registered = true
+[submodule "odin.dust"]
+	path = odin.dust
+	url = https://github.com/mrc-ide/odin.dust
+	shallow = true
+	branch = master
+	registered = true
+[submodule "malariasimulation"]
+	path = malariasimulation
+	url = https://github.com/mrc-ide/malariasimulation
 	shallow = true
 	branch = master
 	registered = true

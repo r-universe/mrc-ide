@@ -152,6 +152,11 @@
 	url = https://github.com/mrc-ide/conan
 	shallow = true
 	registered = false
+[submodule "individual"]
+	path = individual
+	url = https://github.com/mrc-ide/individual
+	shallow = true
+	registered = false
 [submodule "malariaEquilibrium"]
 	path = malariaEquilibrium
 	url = https://github.com/mrc-ide/malariaEquilibrium

@@ -48,6 +48,12 @@
     "from": "odin.dust"
   },
   {
+    "package": "individual",
+    "url": "https://github.com/mrc-ide/individual",
+    "via": ["malariasimulation"],
+    "from": "malariasimulation"
+  },
+  {
     "package": "jsonvalidate",
     "url": "https://github.com/ropensci/jsonvalidate",
     "via": ["odin.js"],

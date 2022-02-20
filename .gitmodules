@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/mrc-ide/universe/
+	url = https://github.com/mrc-ide/universe
 	shallow = true
 	branch = HEAD
 [submodule "provisionr"]

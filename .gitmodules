@@ -263,6 +263,11 @@
 	url = https://github.com/jeffeaton/epp
 	shallow = true
 	registered = false
+[submodule "fakerbase"]
+	path = fakerbase
+	url = https://github.com/reside-ic/fakerbase
+	shallow = true
+	registered = false
 [submodule "individual"]
 	path = individual
 	url = https://github.com/mrc-ide/individual

@@ -180,6 +180,12 @@
     "from": "didehpc"
   },
   {
+    "package": "spud",
+    "url": "https://github.com/reside-ic/spud",
+    "via": ["orderly.sharepoint"],
+    "from": "orderly.sharepoint"
+  },
+  {
     "package": "traduire",
     "url": "https://github.com/reside-ic/traduire",
     "via": ["naomi"],

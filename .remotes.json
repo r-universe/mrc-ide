@@ -162,6 +162,12 @@
     "from": "mcstate"
   },
   {
+    "package": "orderly",
+    "url": "https://github.com/vimc/orderly",
+    "via": ["orderlyweb"],
+    "from": "orderlyweb"
+  },
+  {
     "package": "provisionr",
     "url": "https://github.com/richfitz/provisionr",
     "via": ["nomad"],

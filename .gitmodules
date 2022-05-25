@@ -37,7 +37,7 @@
 	path = rrq
 	url = https://github.com/mrc-ide/rrq
 	shallow = true
-	branch = v0.1.2
+	branch = master
 	registered = true
 [submodule "syncr"]
 	path = syncr

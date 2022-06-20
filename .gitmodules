@@ -162,3 +162,8 @@
 	url = https://github.com/mrc-ide/malariaEquilibrium
 	shallow = true
 	registered = false
+[submodule "mode"]
+	path = mode
+	url = https://github.com/mrc-ide/mode
+	shallow = true
+	registered = false

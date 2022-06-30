@@ -45,6 +45,12 @@
   {
     "package": "dust",
     "url": "https://github.com/mrc-ide/dust",
+    "via": ["mcstate", "odin.dust", "mode"],
+    "from": "mcstate"
+  },
+  {
+    "package": "dust",
+    "url": "https://github.com/mrc-ide/dust",
     "via": ["odin.dust"],
     "from": "odin.dust"
   },
@@ -77,6 +83,12 @@
     "url": "https://github.com/mrc-ide/malariaEquilibrium",
     "via": ["malariasimulation"],
     "from": "malariasimulation"
+  },
+  {
+    "package": "mode",
+    "url": "https://github.com/mrc-ide/mode",
+    "via": ["mcstate", "odin.dust"],
+    "from": "mcstate"
   },
   {
     "package": "mode",

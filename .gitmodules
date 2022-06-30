@@ -253,6 +253,11 @@
 	url = https://github.com/mrc-ide/conan
 	shallow = true
 	registered = false
+[submodule "datamodelr"]
+	path = datamodelr
+	url = https://github.com/bergant/datamodelr
+	shallow = true
+	registered = false
 [submodule "epp"]
 	path = epp
 	url = https://github.com/jeffeaton/epp

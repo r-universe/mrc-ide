@@ -6,6 +6,12 @@
     "from": "eppasm"
   },
   {
+    "package": "anclik",
+    "url": "https://github.com/jeffeaton/anclik",
+    "via": ["naomi", "eppasm", "epp"],
+    "from": "naomi"
+  },
+  {
     "package": "beers",
     "url": "https://github.com/mrc-ide/beers",
     "via": ["specio"],
@@ -34,6 +40,12 @@
     "url": "https://github.com/mrc-ide/context",
     "via": ["queuer"],
     "from": "queuer"
+  },
+  {
+    "package": "datamodelr",
+    "url": "https://github.com/bergant/datamodelr",
+    "via": ["naomi"],
+    "from": "naomi"
   },
   {
     "package": "dust",
@@ -70,6 +82,24 @@
     "url": "https://github.com/jeffeaton/epp",
     "via": ["eppasm"],
     "from": "eppasm"
+  },
+  {
+    "package": "epp",
+    "url": "https://github.com/jeffeaton/epp",
+    "via": ["naomi", "eppasm"],
+    "from": "naomi"
+  },
+  {
+    "package": "eppasm",
+    "url": "https://github.com/mrc-ide/eppasm",
+    "via": ["naomi"],
+    "from": "naomi"
+  },
+  {
+    "package": "first90",
+    "url": "https://github.com/mrc-ide/first90release",
+    "via": ["naomi"],
+    "from": "naomi"
   },
   {
     "package": "individual",
@@ -148,5 +178,11 @@
     "url": "https://github.com/mrc-ide/rrq",
     "via": ["didehpc"],
     "from": "didehpc"
+  },
+  {
+    "package": "traduire",
+    "url": "https://github.com/reside-ic/traduire",
+    "via": ["naomi"],
+    "from": "naomi"
   }
 ]

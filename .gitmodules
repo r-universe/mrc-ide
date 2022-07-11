@@ -243,9 +243,19 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "anclik"]
+	path = anclik
+	url = https://github.com/jeffeaton/anclik
+	shallow = true
+	registered = false
 [submodule "conan"]
 	path = conan
 	url = https://github.com/mrc-ide/conan
+	shallow = true
+	registered = false
+[submodule "epp"]
+	path = epp
+	url = https://github.com/jeffeaton/epp
 	shallow = true
 	registered = false
 [submodule "individual"]

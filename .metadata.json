@@ -75,5 +75,9 @@
   },
   {
     "package": "malariasimulation"
+  },
+  {
+    "package": "orderly",
+    "oncran": true
   }
 ]

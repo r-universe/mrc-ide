@@ -147,6 +147,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "orderly"]
+	path = orderly
+	url = https://github.com/vimc/orderly
+	shallow = true
+	branch = master
+	registered = true
 [submodule "conan"]
 	path = conan
 	url = https://github.com/mrc-ide/conan

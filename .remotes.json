@@ -12,6 +12,12 @@
     "from": "naomi"
   },
   {
+    "package": "anclik",
+    "url": "https://github.com/jeffeaton/anclik",
+    "via": ["threemc", "naomi", "eppasm", "epp"],
+    "from": "threemc"
+  },
+  {
     "package": "beers",
     "url": "https://github.com/mrc-ide/beers",
     "via": ["specio"],
@@ -46,6 +52,12 @@
     "url": "https://github.com/bergant/datamodelr",
     "via": ["naomi"],
     "from": "naomi"
+  },
+  {
+    "package": "datamodelr",
+    "url": "https://github.com/bergant/datamodelr",
+    "via": ["threemc", "naomi"],
+    "from": "threemc"
   },
   {
     "package": "dust",
@@ -90,10 +102,22 @@
     "from": "naomi"
   },
   {
+    "package": "epp",
+    "url": "https://github.com/jeffeaton/epp",
+    "via": ["threemc", "naomi", "eppasm"],
+    "from": "threemc"
+  },
+  {
     "package": "eppasm",
     "url": "https://github.com/mrc-ide/eppasm",
     "via": ["naomi"],
     "from": "naomi"
+  },
+  {
+    "package": "eppasm",
+    "url": "https://github.com/mrc-ide/eppasm",
+    "via": ["threemc", "naomi"],
+    "from": "threemc"
   },
   {
     "package": "fakerbase",
@@ -106,6 +130,12 @@
     "url": "https://github.com/mrc-ide/first90release",
     "via": ["naomi"],
     "from": "naomi"
+  },
+  {
+    "package": "first90",
+    "url": "https://github.com/mrc-ide/first90release",
+    "via": ["threemc", "naomi"],
+    "from": "threemc"
   },
   {
     "package": "individual",
@@ -142,6 +172,12 @@
     "url": "https://github.com/mrc-ide/mode",
     "via": ["odin.dust"],
     "from": "odin.dust"
+  },
+  {
+    "package": "naomi",
+    "url": "https://github.com/mrc-ide/naomi",
+    "via": ["threemc"],
+    "from": "threemc"
   },
   {
     "package": "odin",
@@ -202,5 +238,11 @@
     "url": "https://github.com/reside-ic/traduire",
     "via": ["naomi"],
     "from": "naomi"
+  },
+  {
+    "package": "traduire",
+    "url": "https://github.com/reside-ic/traduire",
+    "via": ["threemc", "naomi"],
+    "from": "threemc"
   }
 ]

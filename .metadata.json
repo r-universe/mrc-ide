@@ -79,5 +79,8 @@
   {
     "package": "orderly",
     "oncran": true
+  },
+  {
+    "package": "mode"
   }
 ]

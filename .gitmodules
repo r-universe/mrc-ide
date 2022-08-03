@@ -153,6 +153,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "mode"]
+	path = mode
+	url = https://github.com/mrc-ide/mode
+	shallow = true
+	branch = main
+	registered = true
 [submodule "conan"]
 	path = conan
 	url = https://github.com/mrc-ide/conan
@@ -166,10 +172,5 @@
 [submodule "malariaEquilibrium"]
 	path = malariaEquilibrium
 	url = https://github.com/mrc-ide/malariaEquilibrium
-	shallow = true
-	registered = false
-[submodule "mode"]
-	path = mode
-	url = https://github.com/mrc-ide/mode
 	shallow = true
 	registered = false

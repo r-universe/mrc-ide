@@ -159,6 +159,90 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "eppasm"]
+	path = eppasm
+	url = https://github.com/mrc-ide/eppasm
+	shallow = true
+	branch = master
+	registered = true
+[submodule "naomi"]
+	path = naomi
+	url = https://github.com/mrc-ide/naomi
+	shallow = true
+	branch = master
+	registered = true
+[submodule "naomi.utils"]
+	path = naomi.utils
+	url = https://github.com/mrc-ide/naomi.utils
+	shallow = true
+	branch = master
+	registered = true
+[submodule "orderly.sharepoint"]
+	path = orderly.sharepoint
+	url = https://github.com/vimc/orderly.sharepoint
+	shallow = true
+	branch = master
+	registered = true
+[submodule "spud"]
+	path = spud
+	url = https://github.com/reside-ic/spud
+	shallow = true
+	branch = master
+	registered = true
+[submodule "first90"]
+	path = first90
+	url = https://github.com/mrc-ide/first90release
+	shallow = true
+	branch = master
+	registered = true
+[submodule "montagu"]
+	path = montagu
+	url = https://github.com/vimc/montagu-r
+	shallow = true
+	branch = master
+	registered = true
+[submodule "orderlyweb"]
+	path = orderlyweb
+	url = https://github.com/vimc/orderlyweb
+	shallow = true
+	branch = master
+	registered = true
+[submodule "vimpact"]
+	path = vimpact
+	url = https://github.com/vimc/vimpact
+	shallow = true
+	branch = master
+	registered = true
+[submodule "jointlyr"]
+	path = jointlyr
+	url = https://github.com/mrc-ide/jointlyr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rincewind"]
+	path = rincewind
+	url = https://github.com/mrc-ide/rincewind
+	shallow = true
+	branch = master
+	registered = true
+[submodule "weighter"]
+	path = weighter
+	url = https://github.com/mrc-ide/weighter
+	shallow = true
+	branch = master
+	registered = true
+[submodule "demogsurv"]
+	path = demogsurv
+	url = https://github.com/mrc-ide/demogsurv
+	shallow = true
+	branch = master
+	registered = true
+[submodule "threemc"]
+	path = threemc
+	url = https://github.com/mrc-ide/threemc
+	shallow = true
+	branch = master
+	registered = true
 [submodule "conan"]
 	path = conan
 	url = https://github.com/mrc-ide/conan

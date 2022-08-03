@@ -82,5 +82,47 @@
   },
   {
     "package": "mode"
+  },
+  {
+    "package": "eppasm"
+  },
+  {
+    "package": "naomi"
+  },
+  {
+    "package": "naomi.utils"
+  },
+  {
+    "package": "orderly.sharepoint"
+  },
+  {
+    "package": "spud"
+  },
+  {
+    "package": "first90"
+  },
+  {
+    "package": "montagu"
+  },
+  {
+    "package": "orderlyweb"
+  },
+  {
+    "package": "vimpact"
+  },
+  {
+    "package": "jointlyr"
+  },
+  {
+    "package": "rincewind"
+  },
+  {
+    "package": "weighter"
+  },
+  {
+    "package": "demogsurv"
+  },
+  {
+    "package": "threemc"
   }
 ]

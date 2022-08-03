@@ -18,6 +18,12 @@
     "from": "threemc"
   },
   {
+    "package": "assessr",
+    "url": "https://github.com/sangeetabhatia03/assessr",
+    "via": ["rincewind"],
+    "from": "rincewind"
+  },
+  {
     "package": "beers",
     "url": "https://github.com/mrc-ide/beers",
     "via": ["specio"],

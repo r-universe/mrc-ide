@@ -248,6 +248,11 @@
 	url = https://github.com/jeffeaton/anclik
 	shallow = true
 	registered = false
+[submodule "assessr"]
+	path = assessr
+	url = https://github.com/sangeetabhatia03/assessr
+	shallow = true
+	registered = false
 [submodule "conan"]
 	path = conan
 	url = https://github.com/mrc-ide/conan

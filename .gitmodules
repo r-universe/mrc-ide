@@ -243,6 +243,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "jenner"]
+	path = jenner
+	url = https://github.com/vimc/jenner
+	shallow = true
+	branch = master
+	registered = true
 [submodule "anclik"]
 	path = anclik
 	url = https://github.com/jeffeaton/anclik

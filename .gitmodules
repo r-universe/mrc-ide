@@ -249,6 +249,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "outpack"]
+	path = outpack
+	url = https://github.com/mrc-ide/outpack
+	shallow = true
+	branch = outpack
+	registered = true
 [submodule "anclik"]
 	path = anclik
 	url = https://github.com/jeffeaton/anclik

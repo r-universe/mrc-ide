@@ -127,5 +127,8 @@
   },
   {
     "package": "jenner"
+  },
+  {
+    "package": "outpack"
   }
 ]

@@ -277,7 +277,7 @@
 	path = outpack
 	url = https://github.com/mrc-ide/outpack
 	shallow = true
-	branch = outpack
+	branch = main
 	registered = true
 [submodule "anclik"]
 	path = anclik

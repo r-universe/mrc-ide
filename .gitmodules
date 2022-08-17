@@ -249,6 +249,30 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "dfertility"]
+	path = dfertility
+	url = https://github.com/mrc-ide/dfertility
+	shallow = true
+	branch = master
+	registered = true
+[submodule "moz.utils"]
+	path = moz.utils
+	url = https://github.com/mrc-ide/moz.utils
+	shallow = true
+	branch = master
+	registered = true
+[submodule "assessr"]
+	path = assessr
+	url = https://github.com/mrc-ide/assessr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "ascertainr"]
+	path = ascertainr
+	url = https://github.com/mrc-ide/ascertainr
+	shallow = true
+	branch = master
+	registered = true
 [submodule "outpack"]
 	path = outpack
 	url = https://github.com/mrc-ide/outpack
@@ -258,11 +282,6 @@
 [submodule "anclik"]
 	path = anclik
 	url = https://github.com/jeffeaton/anclik
-	shallow = true
-	registered = false
-[submodule "assessr"]
-	path = assessr
-	url = https://github.com/sangeetabhatia03/assessr
 	shallow = true
 	registered = false
 [submodule "conan"]

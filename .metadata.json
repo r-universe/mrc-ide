@@ -129,6 +129,18 @@
     "package": "jenner"
   },
   {
+    "package": "dfertility"
+  },
+  {
+    "package": "moz.utils"
+  },
+  {
+    "package": "assessr"
+  },
+  {
+    "package": "ascertainr"
+  },
+  {
     "package": "outpack"
   }
 ]

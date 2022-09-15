@@ -320,6 +320,12 @@
   {
     "package": "traduire",
     "url": "https://github.com/reside-ic/traduire",
+    "via": ["naomi.options"],
+    "from": "naomi.options"
+  },
+  {
+    "package": "traduire",
+    "url": "https://github.com/reside-ic/traduire",
     "via": ["threemc", "naomi"],
     "from": "threemc"
   }

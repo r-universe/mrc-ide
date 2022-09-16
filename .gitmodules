@@ -279,6 +279,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "naomi.options"]
+	path = naomi.options
+	url = https://github.com/mrc-ide/naomi.options
+	shallow = true
+	branch = main
+	registered = true
 [submodule "anclik"]
 	path = anclik
 	url = https://github.com/jeffeaton/anclik

@@ -240,6 +240,12 @@
     "from": "naomi"
   },
   {
+    "package": "naomi.options",
+    "url": "https://github.com/mrc-ide/naomi.options",
+    "via": ["threemc", "naomi"],
+    "from": "threemc"
+  },
+  {
     "package": "odin",
     "url": "https://github.com/mrc-ide/odin",
     "via": ["mcstate", "odin.dust"],
@@ -339,6 +345,12 @@
     "package": "traduire",
     "url": "https://github.com/reside-ic/traduire",
     "via": ["threemc", "naomi"],
+    "from": "threemc"
+  },
+  {
+    "package": "traduire",
+    "url": "https://github.com/reside-ic/traduire",
+    "via": ["threemc", "naomi", "naomi.options"],
     "from": "threemc"
   }
 ]

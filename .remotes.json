@@ -2,6 +2,12 @@
   {
     "package": "anclik",
     "url": "https://github.com/jeffeaton/anclik",
+    "via": ["eppasm"],
+    "from": "eppasm"
+  },
+  {
+    "package": "anclik",
+    "url": "https://github.com/jeffeaton/anclik",
     "via": ["eppasm", "epp"],
     "from": "eppasm"
   },

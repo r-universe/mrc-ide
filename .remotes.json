@@ -20,6 +20,12 @@
   {
     "package": "anclik",
     "url": "https://github.com/jeffeaton/anclik",
+    "via": ["naomi", "eppasm"],
+    "from": "naomi"
+  },
+  {
+    "package": "anclik",
+    "url": "https://github.com/jeffeaton/anclik",
     "via": ["naomi", "eppasm", "epp"],
     "from": "naomi"
   },

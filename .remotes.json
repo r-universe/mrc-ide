@@ -32,6 +32,12 @@
   {
     "package": "anclik",
     "url": "https://github.com/jeffeaton/anclik",
+    "via": ["threemc", "naomi", "eppasm"],
+    "from": "threemc"
+  },
+  {
+    "package": "anclik",
+    "url": "https://github.com/jeffeaton/anclik",
     "via": ["threemc", "naomi", "eppasm", "epp"],
     "from": "threemc"
   },

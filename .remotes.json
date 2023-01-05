@@ -14,6 +14,12 @@
   {
     "package": "anclik",
     "url": "https://github.com/jeffeaton/anclik",
+    "via": ["moz.utils", "naomi", "eppasm"],
+    "from": "moz.utils"
+  },
+  {
+    "package": "anclik",
+    "url": "https://github.com/jeffeaton/anclik",
     "via": ["moz.utils", "naomi", "eppasm", "epp"],
     "from": "moz.utils"
   },
@@ -254,6 +260,12 @@
   {
     "package": "naomi.options",
     "url": "https://github.com/mrc-ide/naomi.options",
+    "via": ["moz.utils", "naomi"],
+    "from": "moz.utils"
+  },
+  {
+    "package": "naomi.options",
+    "url": "https://github.com/mrc-ide/naomi.options",
     "via": ["naomi"],
     "from": "naomi"
   },
@@ -339,6 +351,12 @@
     "package": "traduire",
     "url": "https://github.com/reside-ic/traduire",
     "via": ["moz.utils", "naomi"],
+    "from": "moz.utils"
+  },
+  {
+    "package": "traduire",
+    "url": "https://github.com/reside-ic/traduire",
+    "via": ["moz.utils", "naomi", "naomi.options"],
     "from": "moz.utils"
   },
   {

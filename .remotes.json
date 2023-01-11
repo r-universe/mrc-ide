@@ -1,5 +1,12 @@
 [
   {
+    "package": "TMB",
+    "url": "https://github.com/kaskr/adcomp",
+    "via": ["threemc"],
+    "subdir": "TMB",
+    "from": "threemc"
+  },
+  {
     "package": "anclik",
     "url": "https://github.com/jeffeaton/anclik",
     "via": ["eppasm"],

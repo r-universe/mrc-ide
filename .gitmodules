@@ -285,6 +285,18 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "testthat.buildkite"]
+	path = testthat.buildkite
+	url = https://github.com/mrc-ide/testthat.buildkite
+	shallow = true
+	branch = main
+	registered = true
+[submodule "mockr"]
+	path = mockr
+	url = https://github.com/mrc-ide/mockr
+	shallow = true
+	branch = main
+	registered = true
 [submodule "TMB"]
 	path = TMB
 	url = https://github.com/kaskr/adcomp

@@ -145,5 +145,12 @@
   },
   {
     "package": "naomi.options"
+  },
+  {
+    "package": "testthat.buildkite"
+  },
+  {
+    "package": "mockr",
+    "oncran": false
   }
 ]

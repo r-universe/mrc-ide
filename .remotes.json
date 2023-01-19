@@ -241,6 +241,12 @@
     "from": "malariasimulation"
   },
   {
+    "package": "mockr",
+    "url": "https://github.com/mrc-ide/mockr",
+    "via": ["naomi"],
+    "from": "naomi"
+  },
+  {
     "package": "mode",
     "url": "https://github.com/mrc-ide/mode",
     "via": ["mcstate", "odin.dust"],
@@ -353,6 +359,12 @@
     "url": "https://github.com/reside-ic/spud",
     "via": ["orderly.sharepoint"],
     "from": "orderly.sharepoint"
+  },
+  {
+    "package": "testthat.buildkite",
+    "url": "https://github.com/mrc-ide/testthat.buildkite",
+    "via": ["naomi"],
+    "from": "naomi"
   },
   {
     "package": "traduire",

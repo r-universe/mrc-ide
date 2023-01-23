@@ -243,6 +243,12 @@
   {
     "package": "mockr",
     "url": "https://github.com/mrc-ide/mockr",
+    "via": ["moz.utils", "naomi"],
+    "from": "moz.utils"
+  },
+  {
+    "package": "mockr",
+    "url": "https://github.com/mrc-ide/mockr",
     "via": ["naomi"],
     "from": "naomi"
   },
@@ -359,6 +365,12 @@
     "url": "https://github.com/reside-ic/spud",
     "via": ["orderly.sharepoint"],
     "from": "orderly.sharepoint"
+  },
+  {
+    "package": "testthat.buildkite",
+    "url": "https://github.com/mrc-ide/testthat.buildkite",
+    "via": ["moz.utils", "naomi"],
+    "from": "moz.utils"
   },
   {
     "package": "testthat.buildkite",

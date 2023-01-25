@@ -211,6 +211,12 @@
     "from": "naomi"
   },
   {
+    "package": "mockr",
+    "url": "https://github.com/mrc-ide/mockr",
+    "via": ["threemc", "naomi"],
+    "from": "threemc"
+  },
+  {
     "package": "mode",
     "url": "https://github.com/mrc-ide/mode",
     "via": ["mcstate", "odin.dust"],
@@ -317,6 +323,12 @@
     "url": "https://github.com/mrc-ide/testthat.buildkite",
     "via": ["naomi"],
     "from": "naomi"
+  },
+  {
+    "package": "testthat.buildkite",
+    "url": "https://github.com/mrc-ide/testthat.buildkite",
+    "via": ["threemc", "naomi"],
+    "from": "threemc"
   },
   {
     "package": "traduire",

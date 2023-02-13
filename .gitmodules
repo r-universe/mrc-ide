@@ -297,12 +297,6 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "TMB"]
-	path = TMB
-	url = https://github.com/kaskr/adcomp
-	shallow = true
-	subdir = TMB
-	registered = false
 [submodule "anclik"]
 	path = anclik
 	url = https://github.com/jeffeaton/anclik

@@ -1,12 +1,5 @@
 [
   {
-    "package": "TMB",
-    "url": "https://github.com/kaskr/adcomp",
-    "via": ["threemc"],
-    "subdir": "TMB",
-    "from": "threemc"
-  },
-  {
     "package": "anclik",
     "url": "https://github.com/jeffeaton/anclik",
     "via": ["eppasm"],
@@ -29,18 +22,6 @@
     "url": "https://github.com/jeffeaton/anclik",
     "via": ["naomi", "eppasm", "epp"],
     "from": "naomi"
-  },
-  {
-    "package": "anclik",
-    "url": "https://github.com/jeffeaton/anclik",
-    "via": ["threemc", "naomi", "eppasm"],
-    "from": "threemc"
-  },
-  {
-    "package": "anclik",
-    "url": "https://github.com/jeffeaton/anclik",
-    "via": ["threemc", "naomi", "eppasm", "epp"],
-    "from": "threemc"
   },
   {
     "package": "assessr",
@@ -83,12 +64,6 @@
     "url": "https://github.com/bergant/datamodelr",
     "via": ["naomi"],
     "from": "naomi"
-  },
-  {
-    "package": "datamodelr",
-    "url": "https://github.com/bergant/datamodelr",
-    "via": ["threemc", "naomi"],
-    "from": "threemc"
   },
   {
     "package": "dust",
@@ -139,22 +114,10 @@
     "from": "naomi"
   },
   {
-    "package": "epp",
-    "url": "https://github.com/jeffeaton/epp",
-    "via": ["threemc", "naomi", "eppasm"],
-    "from": "threemc"
-  },
-  {
     "package": "eppasm",
     "url": "https://github.com/mrc-ide/eppasm",
     "via": ["naomi"],
     "from": "naomi"
-  },
-  {
-    "package": "eppasm",
-    "url": "https://github.com/mrc-ide/eppasm",
-    "via": ["threemc", "naomi"],
-    "from": "threemc"
   },
   {
     "package": "fakerbase",
@@ -167,12 +130,6 @@
     "url": "https://github.com/mrc-ide/first90release",
     "via": ["naomi"],
     "from": "naomi"
-  },
-  {
-    "package": "first90",
-    "url": "https://github.com/mrc-ide/first90release",
-    "via": ["threemc", "naomi"],
-    "from": "threemc"
   },
   {
     "package": "individual",
@@ -211,12 +168,6 @@
     "from": "naomi"
   },
   {
-    "package": "mockr",
-    "url": "https://github.com/mrc-ide/mockr",
-    "via": ["threemc", "naomi"],
-    "from": "threemc"
-  },
-  {
     "package": "mode",
     "url": "https://github.com/mrc-ide/mode",
     "via": ["mcstate", "odin.dust"],
@@ -229,22 +180,10 @@
     "from": "odin.dust"
   },
   {
-    "package": "naomi",
-    "url": "https://github.com/mrc-ide/naomi",
-    "via": ["threemc"],
-    "from": "threemc"
-  },
-  {
     "package": "naomi.options",
     "url": "https://github.com/mrc-ide/naomi.options",
     "via": ["naomi"],
     "from": "naomi"
-  },
-  {
-    "package": "naomi.options",
-    "url": "https://github.com/mrc-ide/naomi.options",
-    "via": ["threemc", "naomi"],
-    "from": "threemc"
   },
   {
     "package": "odin",
@@ -325,12 +264,6 @@
     "from": "naomi"
   },
   {
-    "package": "testthat.buildkite",
-    "url": "https://github.com/mrc-ide/testthat.buildkite",
-    "via": ["threemc", "naomi"],
-    "from": "threemc"
-  },
-  {
     "package": "traduire",
     "url": "https://github.com/reside-ic/traduire",
     "via": ["naomi"],
@@ -347,17 +280,5 @@
     "url": "https://github.com/reside-ic/traduire",
     "via": ["naomi.options"],
     "from": "naomi.options"
-  },
-  {
-    "package": "traduire",
-    "url": "https://github.com/reside-ic/traduire",
-    "via": ["threemc", "naomi"],
-    "from": "threemc"
-  },
-  {
-    "package": "traduire",
-    "url": "https://github.com/reside-ic/traduire",
-    "via": ["threemc", "naomi", "naomi.options"],
-    "from": "threemc"
   }
 ]

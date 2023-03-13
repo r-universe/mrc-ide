@@ -297,6 +297,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "cart"]
+	path = cart
+	url = https://github.com/mrc-ide/cart
+	shallow = true
+	branch = main
+	registered = true
 [submodule "anclik"]
 	path = anclik
 	url = https://github.com/jeffeaton/anclik

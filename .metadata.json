@@ -152,5 +152,8 @@
   {
     "package": "mockr",
     "oncran": false
+  },
+  {
+    "package": "cart"
   }
 ]

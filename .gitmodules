@@ -303,6 +303,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "EpiEstim"]
+	path = EpiEstim
+	url = https://github.com/mrc-ide/EpiEstim
+	shallow = true
+	branch = master
+	registered = true
 [submodule "anclik"]
 	path = anclik
 	url = https://github.com/jeffeaton/anclik

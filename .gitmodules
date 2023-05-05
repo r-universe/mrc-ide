@@ -82,6 +82,10 @@
 	path = first90
 	url = https://github.com/mrc-ide/first90release
 	branch = master
+[submodule "geojsonio"]
+	path = geojsonio
+	url = https://github.com/mrc-ide/geojsonio
+	registered = false
 [submodule "gert"]
 	path = gert
 	url = https://github.com/r-lib/gert

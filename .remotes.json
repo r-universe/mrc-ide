@@ -108,6 +108,12 @@
     "from": "naomi"
   },
   {
+    "package": "geojsonio",
+    "url": "https://github.com/mrc-ide/geojsonio",
+    "via": ["hintr"],
+    "from": "hintr"
+  },
+  {
     "package": "gert",
     "url": "https://github.com/r-lib/gert",
     "via": ["orderly2"],
@@ -142,6 +148,12 @@
     "url": "https://github.com/mrc-ide/malariaEquilibrium",
     "via": ["malariasimulation"],
     "from": "malariasimulation"
+  },
+  {
+    "package": "mockr",
+    "url": "https://github.com/mrc-ide/mockr",
+    "via": ["hintr"],
+    "from": "hintr"
   },
   {
     "package": "mockr",
@@ -221,6 +233,12 @@
     "url": "https://github.com/mrc-ide/rrq",
     "via": ["didehpc"],
     "from": "didehpc"
+  },
+  {
+    "package": "rrq",
+    "url": "https://github.com/mrc-ide/rrq",
+    "via": ["hintr"],
+    "from": "hintr"
   },
   {
     "package": "spud",

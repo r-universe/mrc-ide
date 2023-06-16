@@ -194,12 +194,6 @@
   {
     "package": "orderly",
     "url": "https://github.com/vimc/orderly",
-    "via": ["moz.utils", "orderlyweb"],
-    "from": "moz.utils"
-  },
-  {
-    "package": "orderly",
-    "url": "https://github.com/vimc/orderly",
     "via": ["orderlyweb"],
     "from": "orderlyweb"
   },

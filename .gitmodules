@@ -1,346 +1,236 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/mrc-ide/universe
-	shallow = true
 	branch = HEAD
 [submodule "provisionr"]
 	path = provisionr
 	url = https://github.com/mrc-ide/provisionr
-	shallow = true
 	branch = master
-	registered = true
 [submodule "context"]
 	path = context
 	url = https://github.com/mrc-ide/context
-	shallow = true
 	branch = master
-	registered = true
 [submodule "queuer"]
 	path = queuer
 	url = https://github.com/mrc-ide/queuer
-	shallow = true
 	branch = master
-	registered = true
 [submodule "didehpc"]
 	path = didehpc
 	url = https://github.com/mrc-ide/didehpc
-	shallow = true
 	branch = master
-	registered = true
 [submodule "heartbeatr"]
 	path = heartbeatr
 	url = https://github.com/mrc-ide/heartbeatr
-	shallow = true
 	branch = master
-	registered = true
 [submodule "rrq"]
 	path = rrq
 	url = https://github.com/mrc-ide/rrq
-	shallow = true
 	branch = master
-	registered = true
 [submodule "syncr"]
 	path = syncr
 	url = https://github.com/mrc-ide/syncr
-	shallow = true
 	branch = master
-	registered = true
 [submodule "buildr"]
 	path = buildr
 	url = https://github.com/mrc-ide/buildr
-	shallow = true
 	branch = master
-	registered = true
 [submodule "odin"]
 	path = odin
 	url = https://github.com/mrc-ide/odin
-	shallow = true
 	branch = master
-	registered = true
 [submodule "dde"]
 	path = dde
 	url = https://github.com/mrc-ide/dde
-	shallow = true
 	branch = master
-	registered = true
 [submodule "odin.ui"]
 	path = odin.ui
 	url = https://github.com/mrc-ide/odin.ui
-	shallow = true
 	branch = master
-	registered = true
 [submodule "odin.js"]
 	path = odin.js
 	url = https://github.com/mrc-ide/odin.js
-	shallow = true
 	branch = master
-	registered = true
 [submodule "vaultr"]
 	path = vaultr
 	url = https://github.com/vimc/vaultr
-	shallow = true
 	branch = master
-	registered = true
 [submodule "nomad"]
 	path = nomad
 	url = https://github.com/reconhub/nomad
-	shallow = true
 	branch = master
-	registered = true
 [submodule "beers"]
 	path = beers
 	url = https://github.com/mrc-ide/beers
-	shallow = true
 	branch = master
-	registered = true
 [submodule "specio"]
 	path = specio
 	url = https://github.com/mrc-ide/specio
-	shallow = true
 	branch = master
-	registered = true
 [submodule "traduire"]
 	path = traduire
 	url = https://github.com/reside-ic/traduire
-	shallow = true
 	branch = master
-	registered = true
 [submodule "defer"]
 	path = defer
 	url = https://github.com/reside-ic/defer
-	shallow = true
 	branch = master
-	registered = true
 [submodule "porcelain"]
 	path = porcelain
 	url = https://github.com/reside-ic/porcelain
-	shallow = true
 	branch = master
-	registered = true
 [submodule "jsonvalidate"]
 	path = jsonvalidate
 	url = https://github.com/ropensci/jsonvalidate
-	shallow = true
 	branch = master
-	registered = true
 [submodule "dust"]
 	path = dust
 	url = https://github.com/mrc-ide/dust
-	shallow = true
 	branch = master
-	registered = true
 [submodule "mcstate"]
 	path = mcstate
 	url = https://github.com/mrc-ide/mcstate
-	shallow = true
 	branch = master
-	registered = true
 [submodule "odin.dust"]
 	path = odin.dust
 	url = https://github.com/mrc-ide/odin.dust
-	shallow = true
 	branch = master
-	registered = true
 [submodule "malariasimulation"]
 	path = malariasimulation
 	url = https://github.com/mrc-ide/malariasimulation
-	shallow = true
 	branch = master
-	registered = true
 [submodule "orderly"]
 	path = orderly
 	url = https://github.com/vimc/orderly
-	shallow = true
 	branch = master
-	registered = true
 [submodule "mode"]
 	path = mode
 	url = https://github.com/mrc-ide/mode
-	shallow = true
 	branch = main
-	registered = true
 [submodule "eppasm"]
 	path = eppasm
 	url = https://github.com/mrc-ide/eppasm
-	shallow = true
 	branch = master
-	registered = true
 [submodule "naomi"]
 	path = naomi
 	url = https://github.com/mrc-ide/naomi
-	shallow = true
 	branch = master
-	registered = true
 [submodule "naomi.utils"]
 	path = naomi.utils
 	url = https://github.com/mrc-ide/naomi.utils
-	shallow = true
 	branch = master
-	registered = true
 [submodule "orderly.sharepoint"]
 	path = orderly.sharepoint
 	url = https://github.com/vimc/orderly.sharepoint
-	shallow = true
 	branch = master
-	registered = true
 [submodule "spud"]
 	path = spud
 	url = https://github.com/reside-ic/spud
-	shallow = true
 	branch = master
-	registered = true
 [submodule "first90"]
 	path = first90
 	url = https://github.com/mrc-ide/first90release
-	shallow = true
 	branch = master
-	registered = true
 [submodule "montagu"]
 	path = montagu
 	url = https://github.com/vimc/montagu-r
-	shallow = true
 	branch = master
-	registered = true
 [submodule "orderlyweb"]
 	path = orderlyweb
 	url = https://github.com/vimc/orderlyweb
-	shallow = true
 	branch = master
-	registered = true
 [submodule "vimpact"]
 	path = vimpact
 	url = https://github.com/vimc/vimpact
-	shallow = true
 	branch = master
-	registered = true
 [submodule "jointlyr"]
 	path = jointlyr
 	url = https://github.com/mrc-ide/jointlyr
-	shallow = true
 	branch = master
-	registered = true
 [submodule "rincewind"]
 	path = rincewind
 	url = https://github.com/mrc-ide/rincewind
-	shallow = true
 	branch = master
-	registered = true
 [submodule "weighter"]
 	path = weighter
 	url = https://github.com/mrc-ide/weighter
-	shallow = true
 	branch = master
-	registered = true
 [submodule "demogsurv"]
 	path = demogsurv
 	url = https://github.com/mrc-ide/demogsurv
-	shallow = true
 	branch = master
-	registered = true
 [submodule "threemc"]
 	path = threemc
 	url = https://github.com/mrc-ide/threemc
-	shallow = true
 	branch = master
-	registered = true
 [submodule "jenner"]
 	path = jenner
 	url = https://github.com/vimc/jenner
-	shallow = true
 	branch = master
-	registered = true
 [submodule "dfertility"]
 	path = dfertility
 	url = https://github.com/mrc-ide/dfertility
-	shallow = true
 	branch = master
-	registered = true
 [submodule "moz.utils"]
 	path = moz.utils
 	url = https://github.com/mrc-ide/moz.utils
-	shallow = true
 	branch = master
-	registered = true
 [submodule "assessr"]
 	path = assessr
 	url = https://github.com/mrc-ide/assessr
-	shallow = true
 	branch = master
-	registered = true
 [submodule "ascertainr"]
 	path = ascertainr
 	url = https://github.com/mrc-ide/ascertainr
-	shallow = true
 	branch = master
-	registered = true
 [submodule "outpack"]
 	path = outpack
 	url = https://github.com/mrc-ide/outpack
-	shallow = true
 	branch = main
-	registered = true
 [submodule "naomi.options"]
 	path = naomi.options
 	url = https://github.com/mrc-ide/naomi.options
-	shallow = true
 	branch = main
-	registered = true
 [submodule "testthat.buildkite"]
 	path = testthat.buildkite
 	url = https://github.com/mrc-ide/testthat.buildkite
-	shallow = true
 	branch = main
-	registered = true
 [submodule "mockr"]
 	path = mockr
 	url = https://github.com/mrc-ide/mockr
-	shallow = true
 	branch = main
-	registered = true
 [submodule "cart"]
 	path = cart
 	url = https://github.com/mrc-ide/cart
-	shallow = true
 	branch = main
-	registered = true
 [submodule "EpiEstim"]
 	path = EpiEstim
 	url = https://github.com/mrc-ide/EpiEstim
-	shallow = true
 	branch = master
-	registered = true
 [submodule "anclik"]
 	path = anclik
 	url = https://github.com/jeffeaton/anclik
-	shallow = true
 	registered = false
 [submodule "conan"]
 	path = conan
 	url = https://github.com/mrc-ide/conan
-	shallow = true
 	registered = false
 [submodule "datamodelr"]
 	path = datamodelr
 	url = https://github.com/bergant/datamodelr
-	shallow = true
 	registered = false
 [submodule "epp"]
 	path = epp
 	url = https://github.com/jeffeaton/epp
-	shallow = true
 	registered = false
 [submodule "fakerbase"]
 	path = fakerbase
 	url = https://github.com/reside-ic/fakerbase
-	shallow = true
 	registered = false
 [submodule "individual"]
 	path = individual
 	url = https://github.com/mrc-ide/individual
-	shallow = true
 	registered = false
 [submodule "malariaEquilibrium"]
 	path = malariaEquilibrium
 	url = https://github.com/mrc-ide/malariaEquilibrium
-	shallow = true
 	registered = false

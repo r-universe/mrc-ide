@@ -2,206 +2,6 @@
 	path = .registry
 	url = https://github.com/mrc-ide/universe
 	branch = HEAD
-[submodule "provisionr"]
-	path = provisionr
-	url = https://github.com/mrc-ide/provisionr
-	branch = master
-[submodule "context"]
-	path = context
-	url = https://github.com/mrc-ide/context
-	branch = master
-[submodule "queuer"]
-	path = queuer
-	url = https://github.com/mrc-ide/queuer
-	branch = master
-[submodule "didehpc"]
-	path = didehpc
-	url = https://github.com/mrc-ide/didehpc
-	branch = master
-[submodule "heartbeatr"]
-	path = heartbeatr
-	url = https://github.com/mrc-ide/heartbeatr
-	branch = master
-[submodule "rrq"]
-	path = rrq
-	url = https://github.com/mrc-ide/rrq
-	branch = master
-[submodule "syncr"]
-	path = syncr
-	url = https://github.com/mrc-ide/syncr
-	branch = master
-[submodule "buildr"]
-	path = buildr
-	url = https://github.com/mrc-ide/buildr
-	branch = master
-[submodule "odin"]
-	path = odin
-	url = https://github.com/mrc-ide/odin
-	branch = master
-[submodule "dde"]
-	path = dde
-	url = https://github.com/mrc-ide/dde
-	branch = master
-[submodule "odin.ui"]
-	path = odin.ui
-	url = https://github.com/mrc-ide/odin.ui
-	branch = master
-[submodule "odin.js"]
-	path = odin.js
-	url = https://github.com/mrc-ide/odin.js
-	branch = master
-[submodule "vaultr"]
-	path = vaultr
-	url = https://github.com/vimc/vaultr
-	branch = master
-[submodule "nomad"]
-	path = nomad
-	url = https://github.com/reconhub/nomad
-	branch = master
-[submodule "beers"]
-	path = beers
-	url = https://github.com/mrc-ide/beers
-	branch = master
-[submodule "specio"]
-	path = specio
-	url = https://github.com/mrc-ide/specio
-	branch = master
-[submodule "traduire"]
-	path = traduire
-	url = https://github.com/reside-ic/traduire
-	branch = master
-[submodule "defer"]
-	path = defer
-	url = https://github.com/reside-ic/defer
-	branch = master
-[submodule "porcelain"]
-	path = porcelain
-	url = https://github.com/reside-ic/porcelain
-	branch = master
-[submodule "jsonvalidate"]
-	path = jsonvalidate
-	url = https://github.com/ropensci/jsonvalidate
-	branch = master
-[submodule "dust"]
-	path = dust
-	url = https://github.com/mrc-ide/dust
-	branch = master
-[submodule "mcstate"]
-	path = mcstate
-	url = https://github.com/mrc-ide/mcstate
-	branch = master
-[submodule "odin.dust"]
-	path = odin.dust
-	url = https://github.com/mrc-ide/odin.dust
-	branch = master
-[submodule "malariasimulation"]
-	path = malariasimulation
-	url = https://github.com/mrc-ide/malariasimulation
-	branch = master
-[submodule "orderly"]
-	path = orderly
-	url = https://github.com/vimc/orderly
-	branch = master
-[submodule "mode"]
-	path = mode
-	url = https://github.com/mrc-ide/mode
-	branch = main
-[submodule "eppasm"]
-	path = eppasm
-	url = https://github.com/mrc-ide/eppasm
-	branch = master
-[submodule "naomi"]
-	path = naomi
-	url = https://github.com/mrc-ide/naomi
-	branch = master
-[submodule "naomi.utils"]
-	path = naomi.utils
-	url = https://github.com/mrc-ide/naomi.utils
-	branch = master
-[submodule "orderly.sharepoint"]
-	path = orderly.sharepoint
-	url = https://github.com/vimc/orderly.sharepoint
-	branch = master
-[submodule "spud"]
-	path = spud
-	url = https://github.com/reside-ic/spud
-	branch = master
-[submodule "first90"]
-	path = first90
-	url = https://github.com/mrc-ide/first90release
-	branch = master
-[submodule "montagu"]
-	path = montagu
-	url = https://github.com/vimc/montagu-r
-	branch = master
-[submodule "orderlyweb"]
-	path = orderlyweb
-	url = https://github.com/vimc/orderlyweb
-	branch = master
-[submodule "vimpact"]
-	path = vimpact
-	url = https://github.com/vimc/vimpact
-	branch = master
-[submodule "jointlyr"]
-	path = jointlyr
-	url = https://github.com/mrc-ide/jointlyr
-	branch = master
-[submodule "rincewind"]
-	path = rincewind
-	url = https://github.com/mrc-ide/rincewind
-	branch = master
-[submodule "weighter"]
-	path = weighter
-	url = https://github.com/mrc-ide/weighter
-	branch = master
-[submodule "demogsurv"]
-	path = demogsurv
-	url = https://github.com/mrc-ide/demogsurv
-	branch = master
-[submodule "threemc"]
-	path = threemc
-	url = https://github.com/mrc-ide/threemc
-	branch = master
-[submodule "jenner"]
-	path = jenner
-	url = https://github.com/vimc/jenner
-	branch = master
-[submodule "dfertility"]
-	path = dfertility
-	url = https://github.com/mrc-ide/dfertility
-	branch = master
-[submodule "moz.utils"]
-	path = moz.utils
-	url = https://github.com/mrc-ide/moz.utils
-	branch = master
-[submodule "assessr"]
-	path = assessr
-	url = https://github.com/mrc-ide/assessr
-	branch = master
-[submodule "ascertainr"]
-	path = ascertainr
-	url = https://github.com/mrc-ide/ascertainr
-	branch = master
-[submodule "outpack"]
-	path = outpack
-	url = https://github.com/mrc-ide/outpack
-	branch = main
-[submodule "naomi.options"]
-	path = naomi.options
-	url = https://github.com/mrc-ide/naomi.options
-	branch = main
-[submodule "testthat.buildkite"]
-	path = testthat.buildkite
-	url = https://github.com/mrc-ide/testthat.buildkite
-	branch = main
-[submodule "mockr"]
-	path = mockr
-	url = https://github.com/mrc-ide/mockr
-	branch = main
-[submodule "cart"]
-	path = cart
-	url = https://github.com/mrc-ide/cart
-	branch = main
 [submodule "EpiEstim"]
 	path = EpiEstim
 	url = https://github.com/mrc-ide/EpiEstim
@@ -210,27 +10,227 @@
 	path = anclik
 	url = https://github.com/jeffeaton/anclik
 	registered = false
+[submodule "ascertainr"]
+	path = ascertainr
+	url = https://github.com/mrc-ide/ascertainr
+	branch = master
+[submodule "assessr"]
+	path = assessr
+	url = https://github.com/mrc-ide/assessr
+	branch = master
+[submodule "beers"]
+	path = beers
+	url = https://github.com/mrc-ide/beers
+	branch = master
+[submodule "buildr"]
+	path = buildr
+	url = https://github.com/mrc-ide/buildr
+	branch = master
+[submodule "cart"]
+	path = cart
+	url = https://github.com/mrc-ide/cart
+	branch = main
 [submodule "conan"]
 	path = conan
 	url = https://github.com/mrc-ide/conan
 	registered = false
+[submodule "context"]
+	path = context
+	url = https://github.com/mrc-ide/context
+	branch = master
 [submodule "datamodelr"]
 	path = datamodelr
 	url = https://github.com/bergant/datamodelr
 	registered = false
+[submodule "dde"]
+	path = dde
+	url = https://github.com/mrc-ide/dde
+	branch = master
+[submodule "defer"]
+	path = defer
+	url = https://github.com/reside-ic/defer
+	branch = master
+[submodule "demogsurv"]
+	path = demogsurv
+	url = https://github.com/mrc-ide/demogsurv
+	branch = master
+[submodule "dfertility"]
+	path = dfertility
+	url = https://github.com/mrc-ide/dfertility
+	branch = master
+[submodule "didehpc"]
+	path = didehpc
+	url = https://github.com/mrc-ide/didehpc
+	branch = master
+[submodule "dust"]
+	path = dust
+	url = https://github.com/mrc-ide/dust
+	branch = master
 [submodule "epp"]
 	path = epp
 	url = https://github.com/jeffeaton/epp
 	registered = false
+[submodule "eppasm"]
+	path = eppasm
+	url = https://github.com/mrc-ide/eppasm
+	branch = master
 [submodule "fakerbase"]
 	path = fakerbase
 	url = https://github.com/reside-ic/fakerbase
 	registered = false
+[submodule "first90"]
+	path = first90
+	url = https://github.com/mrc-ide/first90release
+	branch = master
+[submodule "heartbeatr"]
+	path = heartbeatr
+	url = https://github.com/mrc-ide/heartbeatr
+	branch = master
 [submodule "individual"]
 	path = individual
 	url = https://github.com/mrc-ide/individual
 	registered = false
+[submodule "jenner"]
+	path = jenner
+	url = https://github.com/vimc/jenner
+	branch = master
+[submodule "jointlyr"]
+	path = jointlyr
+	url = https://github.com/mrc-ide/jointlyr
+	branch = master
+[submodule "jsonvalidate"]
+	path = jsonvalidate
+	url = https://github.com/ropensci/jsonvalidate
+	branch = master
 [submodule "malariaEquilibrium"]
 	path = malariaEquilibrium
 	url = https://github.com/mrc-ide/malariaEquilibrium
 	registered = false
+[submodule "malariasimulation"]
+	path = malariasimulation
+	url = https://github.com/mrc-ide/malariasimulation
+	branch = master
+[submodule "mcstate"]
+	path = mcstate
+	url = https://github.com/mrc-ide/mcstate
+	branch = master
+[submodule "mockr"]
+	path = mockr
+	url = https://github.com/mrc-ide/mockr
+	branch = main
+[submodule "mode"]
+	path = mode
+	url = https://github.com/mrc-ide/mode
+	branch = main
+[submodule "montagu"]
+	path = montagu
+	url = https://github.com/vimc/montagu-r
+	branch = master
+[submodule "moz.utils"]
+	path = moz.utils
+	url = https://github.com/mrc-ide/moz.utils
+	branch = master
+[submodule "naomi"]
+	path = naomi
+	url = https://github.com/mrc-ide/naomi
+	branch = master
+[submodule "naomi.options"]
+	path = naomi.options
+	url = https://github.com/mrc-ide/naomi.options
+	branch = main
+[submodule "naomi.utils"]
+	path = naomi.utils
+	url = https://github.com/mrc-ide/naomi.utils
+	branch = master
+[submodule "nomad"]
+	path = nomad
+	url = https://github.com/reconhub/nomad
+	branch = master
+[submodule "odin"]
+	path = odin
+	url = https://github.com/mrc-ide/odin
+	branch = master
+[submodule "odin.dust"]
+	path = odin.dust
+	url = https://github.com/mrc-ide/odin.dust
+	branch = master
+[submodule "odin.js"]
+	path = odin.js
+	url = https://github.com/mrc-ide/odin.js
+	branch = master
+[submodule "odin.ui"]
+	path = odin.ui
+	url = https://github.com/mrc-ide/odin.ui
+	branch = master
+[submodule "orderly"]
+	path = orderly
+	url = https://github.com/vimc/orderly
+	branch = master
+[submodule "orderly.sharepoint"]
+	path = orderly.sharepoint
+	url = https://github.com/vimc/orderly.sharepoint
+	branch = master
+[submodule "orderlyweb"]
+	path = orderlyweb
+	url = https://github.com/vimc/orderlyweb
+	branch = master
+[submodule "outpack"]
+	path = outpack
+	url = https://github.com/mrc-ide/outpack
+	branch = main
+[submodule "porcelain"]
+	path = porcelain
+	url = https://github.com/reside-ic/porcelain
+	branch = master
+[submodule "provisionr"]
+	path = provisionr
+	url = https://github.com/mrc-ide/provisionr
+	branch = master
+[submodule "queuer"]
+	path = queuer
+	url = https://github.com/mrc-ide/queuer
+	branch = master
+[submodule "rincewind"]
+	path = rincewind
+	url = https://github.com/mrc-ide/rincewind
+	branch = master
+[submodule "rrq"]
+	path = rrq
+	url = https://github.com/mrc-ide/rrq
+	branch = master
+[submodule "specio"]
+	path = specio
+	url = https://github.com/mrc-ide/specio
+	branch = master
+[submodule "spud"]
+	path = spud
+	url = https://github.com/reside-ic/spud
+	branch = master
+[submodule "syncr"]
+	path = syncr
+	url = https://github.com/mrc-ide/syncr
+	branch = master
+[submodule "testthat.buildkite"]
+	path = testthat.buildkite
+	url = https://github.com/mrc-ide/testthat.buildkite
+	branch = main
+[submodule "threemc"]
+	path = threemc
+	url = https://github.com/mrc-ide/threemc
+	branch = master
+[submodule "traduire"]
+	path = traduire
+	url = https://github.com/reside-ic/traduire
+	branch = master
+[submodule "vaultr"]
+	path = vaultr
+	url = https://github.com/vimc/vaultr
+	branch = master
+[submodule "vimpact"]
+	path = vimpact
+	url = https://github.com/vimc/vimpact
+	branch = master
+[submodule "weighter"]
+	path = weighter
+	url = https://github.com/mrc-ide/weighter
+	branch = master

@@ -50,12 +50,6 @@
   {
     "package": "context",
     "url": "https://github.com/mrc-ide/context",
-    "via": ["didehpc", "queuer"],
-    "from": "didehpc"
-  },
-  {
-    "package": "context",
-    "url": "https://github.com/mrc-ide/context",
     "via": ["queuer"],
     "from": "queuer"
   },

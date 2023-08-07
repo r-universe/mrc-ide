@@ -134,12 +134,6 @@
   {
     "package": "jsonvalidate",
     "url": "https://github.com/ropensci/jsonvalidate",
-    "via": ["outpack"],
-    "from": "outpack"
-  },
-  {
-    "package": "jsonvalidate",
-    "url": "https://github.com/ropensci/jsonvalidate",
     "via": ["porcelain"],
     "from": "porcelain"
   },

@@ -170,14 +170,14 @@
 	path = orderly.sharepoint
 	url = https://github.com/vimc/orderly.sharepoint
 	branch = master
+[submodule "orderly2"]
+	path = orderly2
+	url = https://github.com/mrc-ide/orderly2
+	branch = main
 [submodule "orderlyweb"]
 	path = orderlyweb
 	url = https://github.com/vimc/orderlyweb
 	branch = master
-[submodule "outpack"]
-	path = outpack
-	url = https://github.com/mrc-ide/outpack
-	branch = main
 [submodule "porcelain"]
 	path = porcelain
 	url = https://github.com/reside-ic/porcelain

@@ -82,6 +82,10 @@
 	path = first90
 	url = https://github.com/mrc-ide/first90release
 	branch = master
+[submodule "gert"]
+	path = gert
+	url = https://github.com/r-lib/gert
+	registered = false
 [submodule "heartbeatr"]
 	path = heartbeatr
 	url = https://github.com/mrc-ide/heartbeatr

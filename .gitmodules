@@ -86,10 +86,6 @@
 	path = geojsonio
 	url = https://github.com/mrc-ide/geojsonio
 	registered = false
-[submodule "gert"]
-	path = gert
-	url = https://github.com/r-lib/gert
-	registered = false
 [submodule "heartbeatr"]
 	path = heartbeatr
 	url = https://github.com/mrc-ide/heartbeatr

@@ -114,12 +114,6 @@
     "from": "hintr"
   },
   {
-    "package": "gert",
-    "url": "https://github.com/r-lib/gert",
-    "via": ["orderly2"],
-    "from": "orderly2"
-  },
-  {
     "package": "individual",
     "url": "https://github.com/mrc-ide/individual",
     "via": ["malariasimulation"],

@@ -128,6 +128,12 @@
   {
     "package": "jsonvalidate",
     "url": "https://github.com/ropensci/jsonvalidate",
+    "via": ["orderly.db", "orderly2"],
+    "from": "orderly.db"
+  },
+  {
+    "package": "jsonvalidate",
+    "url": "https://github.com/ropensci/jsonvalidate",
     "via": ["orderly2"],
     "from": "orderly2"
   },
@@ -203,6 +209,12 @@
     "url": "https://github.com/vimc/orderly",
     "via": ["orderlyweb"],
     "from": "orderlyweb"
+  },
+  {
+    "package": "orderly2",
+    "url": "https://github.com/mrc-ide/orderly2",
+    "via": ["orderly.db"],
+    "from": "orderly.db"
   },
   {
     "package": "orderlyweb",

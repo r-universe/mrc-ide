@@ -18,12 +18,6 @@
     "from": "naomi"
   },
   {
-    "package": "anclik",
-    "url": "https://github.com/jeffeaton/anclik",
-    "via": ["naomi", "eppasm", "epp"],
-    "from": "naomi"
-  },
-  {
     "package": "assessr",
     "url": "https://github.com/sangeetabhatia03/assessr",
     "via": ["rincewind"],
@@ -262,12 +256,6 @@
     "package": "traduire",
     "url": "https://github.com/reside-ic/traduire",
     "via": ["naomi"],
-    "from": "naomi"
-  },
-  {
-    "package": "traduire",
-    "url": "https://github.com/reside-ic/traduire",
-    "via": ["naomi", "naomi.options"],
     "from": "naomi"
   },
   {

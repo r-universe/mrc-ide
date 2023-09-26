@@ -178,6 +178,10 @@
 	path = orderly.db
 	url = https://github.com/mrc-ide/orderly.db
 	branch = main
+[submodule "orderly.sharedfile"]
+	path = orderly.sharedfile
+	url = https://github.com/mrc-ide/orderly.sharedfile
+	branch = main
 [submodule "orderly.sharepoint"]
 	path = orderly.sharepoint
 	url = https://github.com/vimc/orderly.sharepoint

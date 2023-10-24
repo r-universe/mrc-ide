@@ -62,6 +62,11 @@
 	path = didehpc
 	url = https://github.com/mrc-ide/didehpc
 	branch = master
+[submodule "duckdb"]
+	path = duckdb
+	url = https://github.com/duckdb/duckdb-r
+	branch = v0.9.1
+	registered = false
 [submodule "dust"]
 	path = dust
 	url = https://github.com/mrc-ide/dust

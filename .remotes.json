@@ -54,6 +54,13 @@
     "from": "naomi"
   },
   {
+    "package": "duckdb",
+    "url": "https://github.com/duckdb/duckdb-r",
+    "via": ["naomi"],
+    "branch": "v0.9.1",
+    "from": "naomi"
+  },
+  {
     "package": "dust",
     "url": "https://github.com/mrc-ide/dust",
     "via": ["mcstate"],

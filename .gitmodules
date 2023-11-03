@@ -151,6 +151,10 @@
 	path = naomi.options
 	url = https://github.com/mrc-ide/naomi.options
 	branch = main
+[submodule "naomi.resources"]
+	path = naomi.resources
+	url = https://github.com/mrc-ide/naomi.resources
+	branch = main
 [submodule "naomi.utils"]
 	path = naomi.utils
 	url = https://github.com/mrc-ide/naomi.utils

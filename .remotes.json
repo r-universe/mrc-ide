@@ -8,12 +8,6 @@
   {
     "package": "anclik",
     "url": "https://github.com/jeffeaton/anclik",
-    "via": ["eppasm", "epp"],
-    "from": "eppasm"
-  },
-  {
-    "package": "anclik",
-    "url": "https://github.com/jeffeaton/anclik",
     "via": ["naomi", "eppasm"],
     "from": "naomi"
   },

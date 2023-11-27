@@ -30,6 +30,10 @@
 	path = cart
 	url = https://github.com/mrc-ide/cart
 	branch = main
+[submodule "cinterpolate"]
+	path = cinterpolate
+	url = https://github.com/mrc-ide/cinterpolate
+	branch = main
 [submodule "conan"]
 	path = conan
 	url = https://github.com/mrc-ide/conan

@@ -99,6 +99,14 @@
 	path = heartbeatr
 	url = https://github.com/mrc-ide/heartbeatr
 	branch = master
+[submodule "hermod"]
+	path = hermod
+	url = https://github.com/mrc-ide/hermod
+	branch = main
+[submodule "hermod.windows"]
+	path = hermod.windows
+	url = https://github.com/mrc-ide/hermod/drivers/windows
+	branch = main
 [submodule "hintr"]
 	path = hintr
 	url = https://github.com/mrc-ide/hintr

@@ -105,8 +105,9 @@
 	branch = main
 [submodule "hermod.windows"]
 	path = hermod.windows
-	url = https://github.com/mrc-ide/hermod/drivers/windows
+	url = https://github.com/mrc-ide/hermod
 	branch = main
+	subdir = drivers/windows
 [submodule "hintr"]
 	path = hintr
 	url = https://github.com/mrc-ide/hintr

@@ -37,6 +37,13 @@
     "from": "hermod"
   },
   {
+    "package": "conan",
+    "url": "https://github.com/mrc-ide/conan",
+    "via": ["hermod.windows"],
+    "branch": "main-v2",
+    "from": "hermod.windows"
+  },
+  {
     "package": "context",
     "url": "https://github.com/mrc-ide/context",
     "via": ["didehpc"],

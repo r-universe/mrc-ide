@@ -38,6 +38,10 @@
 	path = conan
 	url = https://github.com/mrc-ide/conan
 	registered = false
+[submodule "conan2"]
+	path = conan2
+	url = https://github.com/mrc-ide/conan2
+	branch = main
 [submodule "context"]
 	path = context
 	url = https://github.com/mrc-ide/context

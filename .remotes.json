@@ -51,6 +51,13 @@
     "from": "hipercow"
   },
   {
+    "package": "conan2",
+    "url": "https://github.com/mrc-ide/conan2",
+    "via": ["hipercow.windows"],
+    "branch": "main",
+    "from": "hipercow.windows"
+  },
+  {
     "package": "context",
     "url": "https://github.com/mrc-ide/context",
     "via": ["didehpc"],

@@ -103,19 +103,19 @@
 	path = heartbeatr
 	url = https://github.com/mrc-ide/heartbeatr
 	branch = master
-[submodule "hermod"]
-	path = hermod
-	url = https://github.com/mrc-ide/hermod
-	branch = main
-[submodule "hermod.windows"]
-	path = hermod.windows
-	url = https://github.com/mrc-ide/hermod
-	branch = main
-	subdir = drivers/windows
 [submodule "hintr"]
 	path = hintr
 	url = https://github.com/mrc-ide/hintr
 	branch = master
+[submodule "hipercow"]
+	path = hipercow
+	url = https://github.com/mrc-ide/hipercow
+	branch = main
+[submodule "hipercow.windows"]
+	path = hipercow.windows
+	url = https://github.com/mrc-ide/hipercow
+	branch = main
+	subdir = drivers/windows
 [submodule "individual"]
 	path = individual
 	url = https://github.com/mrc-ide/individual

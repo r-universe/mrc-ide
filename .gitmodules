@@ -132,6 +132,10 @@
 	path = jsonvalidate
 	url = https://github.com/ropensci/jsonvalidate
 	branch = master
+[submodule "logwatch"]
+	path = logwatch
+	url = https://github.com/reside-ic/logwatch
+	branch = main
 [submodule "malariaEquilibrium"]
 	path = malariaEquilibrium
 	url = https://github.com/mrc-ide/malariaEquilibrium

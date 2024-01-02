@@ -39,7 +39,6 @@
     "package": "conan2",
     "url": "https://github.com/mrc-ide/conan2",
     "via": ["hipercow.windows"],
-    "branch": "main",
     "from": "hipercow.windows"
   },
   {
@@ -162,6 +161,12 @@
     "url": "https://github.com/reside-ic/logwatch",
     "via": ["hipercow"],
     "from": "hipercow"
+  },
+  {
+    "package": "logwatch",
+    "url": "https://github.com/reside-ic/logwatch",
+    "via": ["hipercow.windows"],
+    "from": "hipercow.windows"
   },
   {
     "package": "malariaEquilibrium",

@@ -72,9 +72,8 @@
 	branch = master
 [submodule "duckdb"]
 	path = duckdb
-	url = https://github.com/duckdb/duckdb-r
+	url = https://github.com/reside-ic/logwatch
 	branch = v0.9.1
-	registered = false
 [submodule "dust"]
 	path = dust
 	url = https://github.com/mrc-ide/dust

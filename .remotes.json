@@ -69,6 +69,12 @@
   {
     "package": "dust",
     "url": "https://github.com/mrc-ide/dust",
+    "via": ["hipercow"],
+    "from": "hipercow"
+  },
+  {
+    "package": "dust",
+    "url": "https://github.com/mrc-ide/dust",
     "via": ["mcstate"],
     "from": "mcstate"
   },

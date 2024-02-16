@@ -175,6 +175,12 @@
     "from": "hipercow.windows"
   },
   {
+    "package": "logwatch",
+    "url": "https://github.com/reside-ic/logwatch",
+    "via": ["rrq"],
+    "from": "rrq"
+  },
+  {
     "package": "malariaEquilibrium",
     "url": "https://github.com/mrc-ide/malariaEquilibrium",
     "via": ["malariasimulation"],

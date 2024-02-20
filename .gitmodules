@@ -275,6 +275,10 @@
 	path = vimpact
 	url = https://github.com/vimc/vimpact
 	branch = master
+[submodule "vip"]
+	path = vip
+	url = https://github.com/mrc-ide/vip
+	branch = main
 [submodule "weighter"]
 	path = weighter
 	url = https://github.com/mrc-ide/weighter

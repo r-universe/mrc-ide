@@ -165,6 +165,12 @@
   {
     "package": "logwatch",
     "url": "https://github.com/reside-ic/logwatch",
+    "via": ["hintr", "rrq"],
+    "from": "hintr"
+  },
+  {
+    "package": "logwatch",
+    "url": "https://github.com/reside-ic/logwatch",
     "via": ["hipercow"],
     "from": "hipercow"
   },

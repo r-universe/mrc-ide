@@ -70,6 +70,10 @@
 	path = didehpc
 	url = https://github.com/mrc-ide/didehpc
 	branch = master
+[submodule "dqrng"]
+	path = dqrng
+	url = https://github.com/daqana/dqrng
+	branch = master
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r

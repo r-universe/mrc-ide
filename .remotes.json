@@ -6,12 +6,6 @@
     "from": "eppasm"
   },
   {
-    "package": "anclik",
-    "url": "https://github.com/jeffeaton/anclik",
-    "via": ["naomi", "eppasm"],
-    "from": "naomi"
-  },
-  {
     "package": "assessr",
     "url": "https://github.com/sangeetabhatia03/assessr",
     "via": ["rincewind"],
@@ -60,13 +54,6 @@
     "from": "naomi"
   },
   {
-    "package": "duckdb",
-    "url": "https://github.com/duckdb/duckdb-r",
-    "via": ["naomi"],
-    "branch": "v0.9.1",
-    "from": "naomi"
-  },
-  {
     "package": "dust",
     "url": "https://github.com/mrc-ide/dust",
     "via": ["hipercow"],
@@ -97,28 +84,10 @@
     "from": "eppasm"
   },
   {
-    "package": "epp",
-    "url": "https://github.com/jeffeaton/epp",
-    "via": ["naomi", "eppasm"],
-    "from": "naomi"
-  },
-  {
-    "package": "eppasm",
-    "url": "https://github.com/mrc-ide/eppasm",
-    "via": ["naomi"],
-    "from": "naomi"
-  },
-  {
     "package": "fakerbase",
     "url": "https://github.com/reside-ic/fakerbase",
     "via": ["vimpact"],
     "from": "vimpact"
-  },
-  {
-    "package": "first90",
-    "url": "https://github.com/mrc-ide/first90release",
-    "via": ["naomi"],
-    "from": "naomi"
   },
   {
     "package": "geojsonio",
@@ -197,18 +166,6 @@
     "url": "https://github.com/mrc-ide/mockr",
     "via": ["hintr"],
     "from": "hintr"
-  },
-  {
-    "package": "mockr",
-    "url": "https://github.com/mrc-ide/mockr",
-    "via": ["naomi"],
-    "from": "naomi"
-  },
-  {
-    "package": "naomi.options",
-    "url": "https://github.com/mrc-ide/naomi.options",
-    "via": ["naomi"],
-    "from": "naomi"
   },
   {
     "package": "odin",
@@ -300,18 +257,6 @@
     "url": "https://github.com/reside-ic/spud",
     "via": ["orderly.sharepoint"],
     "from": "orderly.sharepoint"
-  },
-  {
-    "package": "testthat.buildkite",
-    "url": "https://github.com/mrc-ide/testthat.buildkite",
-    "via": ["naomi"],
-    "from": "naomi"
-  },
-  {
-    "package": "traduire",
-    "url": "https://github.com/reside-ic/traduire",
-    "via": ["naomi"],
-    "from": "naomi"
   },
   {
     "package": "traduire",

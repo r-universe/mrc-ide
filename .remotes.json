@@ -50,6 +50,12 @@
   {
     "package": "datamodelr",
     "url": "https://github.com/bergant/datamodelr",
+    "via": ["hintr", "naomi"],
+    "from": "hintr"
+  },
+  {
+    "package": "datamodelr",
+    "url": "https://github.com/bergant/datamodelr",
     "via": ["naomi"],
     "from": "naomi"
   },
@@ -90,12 +96,6 @@
     "from": "vimpact"
   },
   {
-    "package": "geojsonio",
-    "url": "https://github.com/mrc-ide/geojsonio",
-    "via": ["hintr"],
-    "from": "hintr"
-  },
-  {
     "package": "individual",
     "url": "https://github.com/mrc-ide/individual",
     "via": ["malariasimulation"],
@@ -134,12 +134,6 @@
   {
     "package": "logwatch",
     "url": "https://github.com/reside-ic/logwatch",
-    "via": ["hintr", "rrq"],
-    "from": "hintr"
-  },
-  {
-    "package": "logwatch",
-    "url": "https://github.com/reside-ic/logwatch",
     "via": ["hipercow"],
     "from": "hipercow"
   },
@@ -162,8 +156,8 @@
     "from": "malariasimulation"
   },
   {
-    "package": "mockr",
-    "url": "https://github.com/mrc-ide/mockr",
+    "package": "naomi",
+    "url": "https://github.com/mrc-ide/naomi",
     "via": ["hintr"],
     "from": "hintr"
   },
@@ -245,12 +239,6 @@
     "url": "https://github.com/mrc-ide/rrq",
     "via": ["didehpc"],
     "from": "didehpc"
-  },
-  {
-    "package": "rrq",
-    "url": "https://github.com/mrc-ide/rrq",
-    "via": ["hintr"],
-    "from": "hintr"
   },
   {
     "package": "spud",

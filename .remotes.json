@@ -134,7 +134,7 @@
   {
     "package": "logwatch",
     "url": "https://github.com/reside-ic/logwatch",
-    "via": ["hipercow"],
+    "via": ["hipercow", "rrq"],
     "from": "hipercow"
   },
   {
@@ -239,6 +239,12 @@
     "url": "https://github.com/mrc-ide/rrq",
     "via": ["didehpc"],
     "from": "didehpc"
+  },
+  {
+    "package": "rrq",
+    "url": "https://github.com/mrc-ide/rrq",
+    "via": ["hipercow"],
+    "from": "hipercow"
   },
   {
     "package": "spud",

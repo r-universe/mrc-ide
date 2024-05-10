@@ -223,6 +223,10 @@
 	path = orderlyweb
 	url = https://github.com/vimc/orderlyweb
 	branch = master
+[submodule "popim"]
+	path = popim
+	url = https://github.com/mrc-ide/popim
+	branch = main
 [submodule "porcelain"]
 	path = porcelain
 	url = https://github.com/reside-ic/porcelain
@@ -275,10 +279,6 @@
 	path = vimpact
 	url = https://github.com/vimc/vimpact
 	branch = master
-[submodule "vip"]
-	path = vip
-	url = https://github.com/mrc-ide/vip
-	branch = main
 [submodule "weighter"]
 	path = weighter
 	url = https://github.com/mrc-ide/weighter

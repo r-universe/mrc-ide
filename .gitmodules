@@ -33,7 +33,7 @@
 [submodule "cinterpolate"]
 	path = cinterpolate
 	url = https://github.com/mrc-ide/cinterpolate
-	branch = main
+	branch = master
 [submodule "conan"]
 	path = conan
 	url = https://github.com/mrc-ide/conan
@@ -73,7 +73,7 @@
 [submodule "dqrng"]
 	path = dqrng
 	url = https://github.com/daqana/dqrng
-	branch = master
+	branch = main
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r

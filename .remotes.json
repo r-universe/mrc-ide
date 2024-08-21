@@ -96,6 +96,18 @@
     "from": "odin.dust"
   },
   {
+    "package": "dust",
+    "url": "https://github.com/mrc-ide/dust",
+    "via": ["odin2", "dust2", "monty"],
+    "from": "odin2"
+  },
+  {
+    "package": "dust2",
+    "url": "https://github.com/mrc-ide/dust2",
+    "via": ["odin2"],
+    "from": "odin2"
+  },
+  {
     "package": "epp",
     "url": "https://github.com/jeffeaton/epp",
     "via": ["eppasm"],
@@ -172,6 +184,12 @@
     "url": "https://github.com/mrc-ide/monty",
     "via": ["dust2"],
     "from": "dust2"
+  },
+  {
+    "package": "monty",
+    "url": "https://github.com/mrc-ide/monty",
+    "via": ["odin2", "dust2"],
+    "from": "odin2"
   },
   {
     "package": "naomi",

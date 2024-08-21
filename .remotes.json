@@ -80,6 +80,12 @@
   {
     "package": "dust",
     "url": "https://github.com/mrc-ide/dust",
+    "via": ["monty"],
+    "from": "monty"
+  },
+  {
+    "package": "dust",
+    "url": "https://github.com/mrc-ide/dust",
     "via": ["odin.dust"],
     "from": "odin.dust"
   },

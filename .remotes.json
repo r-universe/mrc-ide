@@ -62,6 +62,12 @@
   {
     "package": "dust",
     "url": "https://github.com/mrc-ide/dust",
+    "via": ["dust2", "monty"],
+    "from": "dust2"
+  },
+  {
+    "package": "dust",
+    "url": "https://github.com/mrc-ide/dust",
     "via": ["hipercow"],
     "from": "hipercow"
   },
@@ -160,6 +166,12 @@
     "url": "https://github.com/mrc-ide/malariaEquilibrium",
     "via": ["malariasimulation"],
     "from": "malariasimulation"
+  },
+  {
+    "package": "monty",
+    "url": "https://github.com/mrc-ide/monty",
+    "via": ["dust2"],
+    "from": "dust2"
   },
   {
     "package": "naomi",

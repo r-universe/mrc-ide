@@ -86,6 +86,10 @@
 	path = dust
 	url = https://github.com/mrc-ide/dust
 	branch = master
+[submodule "dust2"]
+	path = dust2
+	url = https://github.com/mrc-ide/dust2
+	branch = main
 [submodule "epp"]
 	path = epp
 	url = https://github.com/jeffeaton/epp
@@ -163,6 +167,10 @@
 	path = montagu
 	url = https://github.com/vimc/montagu-r
 	branch = master
+[submodule "monty"]
+	path = monty
+	url = https://github.com/mrc-ide/monty
+	branch = main
 [submodule "moz.utils"]
 	path = moz.utils
 	url = https://github.com/mrc-ide/moz.utils
@@ -203,6 +211,10 @@
 	path = odin.ui
 	url = https://github.com/mrc-ide/odin.ui
 	branch = master
+[submodule "odin2"]
+	path = odin2
+	url = https://github.com/mrc-ide/odin2
+	branch = main
 [submodule "orderly"]
 	path = orderly
 	url = https://github.com/vimc/orderly

@@ -113,7 +113,7 @@
 [submodule "hintr"]
 	path = hintr
 	url = https://github.com/mrc-ide/hintr
-	branch = master
+	branch = main
 [submodule "hipercow"]
 	path = hipercow
 	url = https://github.com/mrc-ide/hipercow

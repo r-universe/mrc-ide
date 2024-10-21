@@ -84,12 +84,6 @@
     "from": "odin.dust"
   },
   {
-    "package": "dust",
-    "url": "https://github.com/mrc-ide/dust",
-    "via": ["odin2", "dust2", "monty"],
-    "from": "odin2"
-  },
-  {
     "package": "dust2",
     "url": "https://github.com/mrc-ide/dust2",
     "via": ["odin2"],

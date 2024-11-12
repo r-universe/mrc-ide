@@ -102,6 +102,13 @@
     "from": "vimpact"
   },
   {
+    "package": "first90",
+    "url": "https://github.com/mrc-ide/first90release",
+    "via": ["naomi"],
+    "branch": "revert-42-2025-update",
+    "from": "naomi"
+  },
+  {
     "package": "individual",
     "url": "https://github.com/mrc-ide/individual",
     "via": ["malariasimulation"],

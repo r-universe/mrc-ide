@@ -105,7 +105,6 @@
     "package": "first90",
     "url": "https://github.com/mrc-ide/first90release",
     "via": ["hintr", "naomi"],
-    "branch": "revert-42-2025-update",
     "from": "hintr"
   },
   {
@@ -190,6 +189,12 @@
     "package": "naomi",
     "url": "https://github.com/mrc-ide/naomi",
     "via": ["hintr"],
+    "from": "hintr"
+  },
+  {
+    "package": "naomi.options",
+    "url": "https://github.com/mrc-ide/naomi.options",
+    "via": ["hintr", "naomi"],
     "from": "hintr"
   },
   {
@@ -288,6 +293,12 @@
     "url": "https://github.com/reside-ic/spud",
     "via": ["orderly.sharepoint"],
     "from": "orderly.sharepoint"
+  },
+  {
+    "package": "traduire",
+    "url": "https://github.com/reside-ic/traduire",
+    "via": ["hintr", "naomi", "naomi.options"],
+    "from": "hintr"
   },
   {
     "package": "traduire",

@@ -8,6 +8,12 @@
   {
     "package": "anclik",
     "url": "https://github.com/jeffeaton/anclik",
+    "via": ["hintr", "naomi", "eppasm"],
+    "from": "hintr"
+  },
+  {
+    "package": "anclik",
+    "url": "https://github.com/jeffeaton/anclik",
     "via": ["naomi", "eppasm"],
     "from": "naomi"
   },
@@ -92,8 +98,20 @@
   {
     "package": "epp",
     "url": "https://github.com/jeffeaton/epp",
+    "via": ["hintr", "naomi", "eppasm"],
+    "from": "hintr"
+  },
+  {
+    "package": "epp",
+    "url": "https://github.com/jeffeaton/epp",
     "via": ["naomi", "eppasm"],
     "from": "naomi"
+  },
+  {
+    "package": "eppasm",
+    "url": "https://github.com/mrc-ide/eppasm",
+    "via": ["hintr", "naomi"],
+    "from": "hintr"
   },
   {
     "package": "eppasm",

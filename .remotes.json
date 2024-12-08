@@ -6,6 +6,12 @@
     "from": "eppasm"
   },
   {
+    "package": "anclik",
+    "url": "https://github.com/jeffeaton/anclik",
+    "via": ["naomi", "eppasm"],
+    "from": "naomi"
+  },
+  {
     "package": "assessr",
     "url": "https://github.com/sangeetabhatia03/assessr",
     "via": ["rincewind"],
@@ -82,6 +88,18 @@
     "url": "https://github.com/jeffeaton/epp",
     "via": ["eppasm"],
     "from": "eppasm"
+  },
+  {
+    "package": "epp",
+    "url": "https://github.com/jeffeaton/epp",
+    "via": ["naomi", "eppasm"],
+    "from": "naomi"
+  },
+  {
+    "package": "eppasm",
+    "url": "https://github.com/mrc-ide/eppasm",
+    "via": ["naomi"],
+    "from": "naomi"
   },
   {
     "package": "fakerbase",

@@ -6,12 +6,6 @@
     "from": "eppasm"
   },
   {
-    "package": "anclik",
-    "url": "https://github.com/jeffeaton/anclik",
-    "via": ["hintr", "naomi", "eppasm"],
-    "from": "hintr"
-  },
-  {
     "package": "assessr",
     "url": "https://github.com/sangeetabhatia03/assessr",
     "via": ["rincewind"],
@@ -90,28 +84,10 @@
     "from": "eppasm"
   },
   {
-    "package": "epp",
-    "url": "https://github.com/jeffeaton/epp",
-    "via": ["hintr", "naomi", "eppasm"],
-    "from": "hintr"
-  },
-  {
-    "package": "eppasm",
-    "url": "https://github.com/mrc-ide/eppasm",
-    "via": ["hintr", "naomi"],
-    "from": "hintr"
-  },
-  {
     "package": "fakerbase",
     "url": "https://github.com/reside-ic/fakerbase",
     "via": ["vimpact"],
     "from": "vimpact"
-  },
-  {
-    "package": "first90",
-    "url": "https://github.com/mrc-ide/first90release",
-    "via": ["hintr", "naomi"],
-    "from": "hintr"
   },
   {
     "package": "individual",
@@ -192,12 +168,6 @@
     "from": "hintr"
   },
   {
-    "package": "naomi.options",
-    "url": "https://github.com/mrc-ide/naomi.options",
-    "via": ["hintr", "naomi"],
-    "from": "hintr"
-  },
-  {
     "package": "odin",
     "url": "https://github.com/mrc-ide/odin",
     "via": ["mcstate", "odin.dust"],
@@ -275,12 +245,6 @@
     "url": "https://github.com/reside-ic/spud",
     "via": ["orderly.sharepoint"],
     "from": "orderly.sharepoint"
-  },
-  {
-    "package": "traduire",
-    "url": "https://github.com/reside-ic/traduire",
-    "via": ["hintr", "naomi", "naomi.options"],
-    "from": "hintr"
   },
   {
     "package": "traduire",

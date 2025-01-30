@@ -165,6 +165,7 @@
     "package": "naomi",
     "url": "https://github.com/mrc-ide/naomi",
     "via": ["hintr"],
+    "branch": "4e9a9b81ae86fabd81f9d1905bfc4c0554af7602",
     "from": "hintr"
   },
   {

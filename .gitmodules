@@ -86,6 +86,10 @@
 	path = dust2
 	url = https://github.com/mrc-ide/dust2
 	branch = main
+[submodule "epireview"]
+	path = epireview
+	url = https://github.com/mrc-ide/epireview
+	branch = main
 [submodule "epp"]
 	path = epp
 	url = https://github.com/jeffeaton/epp

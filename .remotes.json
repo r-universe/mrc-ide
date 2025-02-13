@@ -150,6 +150,12 @@
     "from": "malariasimulation"
   },
   {
+    "package": "malariaEquilibriumVivax",
+    "url": "https://github.com/mrc-ide/malariaEquilibriumVivax",
+    "via": ["malariasimulation"],
+    "from": "malariasimulation"
+  },
+  {
     "package": "monty",
     "url": "https://github.com/mrc-ide/monty",
     "via": ["dust2"],

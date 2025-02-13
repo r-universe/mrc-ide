@@ -147,6 +147,10 @@
 	path = malariaEquilibrium
 	url = https://github.com/mrc-ide/malariaEquilibrium
 	registered = false
+[submodule "malariaEquilibriumVivax"]
+	path = malariaEquilibriumVivax
+	url = https://github.com/mrc-ide/malariaEquilibriumVivax
+	registered = false
 [submodule "malariasimulation"]
 	path = malariasimulation
 	url = https://github.com/mrc-ide/malariasimulation

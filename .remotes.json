@@ -50,6 +50,12 @@
   {
     "package": "dde",
     "url": "https://github.com/mrc-ide/dde",
+    "via": ["gonovax"],
+    "from": "gonovax"
+  },
+  {
+    "package": "dde",
+    "url": "https://github.com/mrc-ide/dde",
     "via": ["mpoxseir", "squire"],
     "from": "mpoxseir"
   },
@@ -58,6 +64,12 @@
     "url": "https://github.com/mrc-ide/drjacoby",
     "via": ["mpoxseir", "squire"],
     "from": "mpoxseir"
+  },
+  {
+    "package": "dust",
+    "url": "https://github.com/mrc-ide/dust",
+    "via": ["gonovax", "mcstate"],
+    "from": "gonovax"
   },
   {
     "package": "dust",
@@ -188,6 +200,12 @@
   {
     "package": "mcstate",
     "url": "https://github.com/mrc-ide/mcstate",
+    "via": ["gonovax"],
+    "from": "gonovax"
+  },
+  {
+    "package": "mcstate",
+    "url": "https://github.com/mrc-ide/mcstate",
     "via": ["mpoxseir"],
     "from": "mpoxseir"
   },
@@ -218,6 +236,12 @@
   {
     "package": "odin",
     "url": "https://github.com/mrc-ide/odin",
+    "via": ["gonovax"],
+    "from": "gonovax"
+  },
+  {
+    "package": "odin",
+    "url": "https://github.com/mrc-ide/odin",
     "via": ["mcstate", "odin.dust"],
     "from": "mcstate"
   },
@@ -238,6 +262,12 @@
     "url": "https://github.com/mrc-ide/odin",
     "via": ["odin.js"],
     "from": "odin.js"
+  },
+  {
+    "package": "odin.dust",
+    "url": "https://github.com/mrc-ide/odin.dust",
+    "via": ["gonovax", "mcstate"],
+    "from": "gonovax"
   },
   {
     "package": "odin.dust",

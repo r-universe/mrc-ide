@@ -30,12 +30,6 @@
     "from": "hipercow.dide"
   },
   {
-    "package": "conan2",
-    "url": "https://github.com/mrc-ide/conan2",
-    "via": ["hipercow.windows"],
-    "from": "hipercow.windows"
-  },
-  {
     "package": "context",
     "url": "https://github.com/mrc-ide/context",
     "via": ["queuer"],
@@ -142,12 +136,6 @@
     "url": "https://github.com/reside-ic/logwatch",
     "via": ["hipercow.dide"],
     "from": "hipercow.dide"
-  },
-  {
-    "package": "logwatch",
-    "url": "https://github.com/reside-ic/logwatch",
-    "via": ["hipercow.windows"],
-    "from": "hipercow.windows"
   },
   {
     "package": "logwatch",

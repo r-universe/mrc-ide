@@ -118,11 +118,11 @@
 	path = hipercow
 	url = https://github.com/mrc-ide/hipercow
 	branch = main
-[submodule "hipercow.windows"]
-	path = hipercow.windows
+[submodule "hipercow.dide"]
+	path = hipercow.dide
 	url = https://github.com/mrc-ide/hipercow
 	branch = main
-	subdir = drivers/windows
+	subdir = drivers/dide
 [submodule "individual"]
 	path = individual
 	url = https://github.com/mrc-ide/individual

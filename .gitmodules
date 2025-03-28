@@ -106,6 +106,10 @@
 	path = first90
 	url = https://github.com/mrc-ide/first90release
 	branch = master
+[submodule "gonovax"]
+	path = gonovax
+	url = https://github.com/mrc-ide/gonovax
+	branch = master
 [submodule "heartbeatr"]
 	path = heartbeatr
 	url = https://github.com/mrc-ide/heartbeatr
@@ -126,7 +130,7 @@
 [submodule "individual"]
 	path = individual
 	url = https://github.com/mrc-ide/individual
-	registered = false
+	branch = master
 [submodule "jenner"]
 	path = jenner
 	url = https://github.com/vimc/jenner
@@ -150,7 +154,7 @@
 [submodule "malariaEquilibriumVivax"]
 	path = malariaEquilibriumVivax
 	url = https://github.com/mrc-ide/malariaEquilibriumVivax
-	registered = false
+	branch = master
 [submodule "malariasimulation"]
 	path = malariasimulation
 	url = https://github.com/mrc-ide/malariasimulation
@@ -179,6 +183,10 @@
 	path = moz.utils
 	url = https://github.com/mrc-ide/moz.utils
 	branch = master
+[submodule "mpoxseir"]
+	path = mpoxseir
+	url = https://github.com/mrc-ide/mpoxseir
+	branch = main
 [submodule "naomi"]
 	path = naomi
 	url = https://github.com/mrc-ide/naomi

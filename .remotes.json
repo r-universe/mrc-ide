@@ -48,6 +48,18 @@
     "from": "naomi"
   },
   {
+    "package": "dde",
+    "url": "https://github.com/mrc-ide/dde",
+    "via": ["mpoxseir", "squire"],
+    "from": "mpoxseir"
+  },
+  {
+    "package": "drjacoby",
+    "url": "https://github.com/mrc-ide/drjacoby",
+    "via": ["mpoxseir", "squire"],
+    "from": "mpoxseir"
+  },
+  {
     "package": "dust",
     "url": "https://github.com/mrc-ide/dust",
     "via": ["hipercow"],
@@ -68,8 +80,20 @@
   {
     "package": "dust",
     "url": "https://github.com/mrc-ide/dust",
+    "via": ["mpoxseir", "mcstate"],
+    "from": "mpoxseir"
+  },
+  {
+    "package": "dust",
+    "url": "https://github.com/mrc-ide/dust",
     "via": ["odin.dust"],
     "from": "odin.dust"
+  },
+  {
+    "package": "dust2",
+    "url": "https://github.com/mrc-ide/dust2",
+    "via": ["mpoxseir", "odin2"],
+    "from": "mpoxseir"
   },
   {
     "package": "dust2",
@@ -94,6 +118,12 @@
     "url": "https://github.com/mrc-ide/individual",
     "via": ["malariasimulation"],
     "from": "malariasimulation"
+  },
+  {
+    "package": "jsonvalidate",
+    "url": "https://github.com/ropensci/jsonvalidate",
+    "via": ["mpoxseir", "squire", "odin.js"],
+    "from": "mpoxseir"
   },
   {
     "package": "jsonvalidate",
@@ -156,10 +186,22 @@
     "from": "malariasimulation"
   },
   {
+    "package": "mcstate",
+    "url": "https://github.com/mrc-ide/mcstate",
+    "via": ["mpoxseir"],
+    "from": "mpoxseir"
+  },
+  {
     "package": "monty",
     "url": "https://github.com/mrc-ide/monty",
     "via": ["dust2"],
     "from": "dust2"
+  },
+  {
+    "package": "monty",
+    "url": "https://github.com/mrc-ide/monty",
+    "via": ["mpoxseir", "odin2", "dust2"],
+    "from": "mpoxseir"
   },
   {
     "package": "monty",
@@ -182,6 +224,12 @@
   {
     "package": "odin",
     "url": "https://github.com/mrc-ide/odin",
+    "via": ["mpoxseir", "mcstate", "odin.dust"],
+    "from": "mpoxseir"
+  },
+  {
+    "package": "odin",
+    "url": "https://github.com/mrc-ide/odin",
     "via": ["odin.dust"],
     "from": "odin.dust"
   },
@@ -196,6 +244,24 @@
     "url": "https://github.com/mrc-ide/odin.dust",
     "via": ["mcstate"],
     "from": "mcstate"
+  },
+  {
+    "package": "odin.dust",
+    "url": "https://github.com/mrc-ide/odin.dust",
+    "via": ["mpoxseir", "mcstate"],
+    "from": "mpoxseir"
+  },
+  {
+    "package": "odin.js",
+    "url": "https://github.com/mrc-ide/odin.js",
+    "via": ["mpoxseir", "squire"],
+    "from": "mpoxseir"
+  },
+  {
+    "package": "odin2",
+    "url": "https://github.com/mrc-ide/odin2",
+    "via": ["mpoxseir"],
+    "from": "mpoxseir"
   },
   {
     "package": "orderly",
@@ -251,6 +317,12 @@
     "url": "https://github.com/reside-ic/spud",
     "via": ["orderly.sharepoint"],
     "from": "orderly.sharepoint"
+  },
+  {
+    "package": "squire",
+    "url": "https://github.com/mrc-ide/squire",
+    "via": ["mpoxseir"],
+    "from": "mpoxseir"
   },
   {
     "package": "traduire",

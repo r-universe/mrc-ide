@@ -283,6 +283,10 @@
 	path = spud
 	url = https://github.com/reside-ic/spud
 	branch = master
+[submodule "squire"]
+	path = squire
+	url = https://github.com/mrc-ide/squire
+	registered = false
 [submodule "syncr"]
 	path = syncr
 	url = https://github.com/mrc-ide/syncr

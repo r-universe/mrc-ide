@@ -1,5 +1,11 @@
 [
   {
+    "package": "SpectrumUtils",
+    "url": "https://github.com/rlglaubius/SpectrumUtils",
+    "via": ["frogger"],
+    "from": "frogger"
+  },
+  {
     "package": "anclik",
     "url": "https://github.com/jeffeaton/anclik",
     "via": ["eppasm"],

@@ -6,6 +6,10 @@
 	path = EpiEstim
 	url = https://github.com/mrc-ide/EpiEstim
 	branch = master
+[submodule "SpectrumUtils"]
+	path = SpectrumUtils
+	url = https://github.com/rlglaubius/SpectrumUtils
+	registered = false
 [submodule "anclik"]
 	path = anclik
 	url = https://github.com/jeffeaton/anclik

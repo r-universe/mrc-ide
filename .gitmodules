@@ -106,6 +106,10 @@
 	path = first90
 	url = https://github.com/mrc-ide/first90release
 	branch = master
+[submodule "frogger"]
+	path = frogger
+	url = https://github.com/mrc-ide/frogger
+	branch = main
 [submodule "gonovax"]
 	path = gonovax
 	url = https://github.com/mrc-ide/gonovax

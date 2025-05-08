@@ -164,12 +164,6 @@
   {
     "package": "jsonvalidate",
     "url": "https://github.com/ropensci/jsonvalidate",
-    "via": ["orderly2"],
-    "from": "orderly2"
-  },
-  {
-    "package": "jsonvalidate",
-    "url": "https://github.com/ropensci/jsonvalidate",
     "via": ["porcelain"],
     "from": "porcelain"
   },

@@ -251,6 +251,10 @@
 	path = orderly.sharepoint
 	url = https://github.com/vimc/orderly.sharepoint
 	branch = master
+[submodule "orderly1"]
+	path = orderly1
+	url = https://github.com/vimc/orderly1
+	registered = false
 [submodule "orderly2"]
 	path = orderly2
 	url = https://github.com/mrc-ide/orderly2

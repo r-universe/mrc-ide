@@ -42,10 +42,6 @@
 	path = conan2
 	url = https://github.com/mrc-ide/conan2
 	branch = main
-[submodule "context"]
-	path = context
-	url = https://github.com/mrc-ide/context
-	registered = false
 [submodule "datamodelr"]
 	path = datamodelr
 	url = https://github.com/bergant/datamodelr
@@ -280,10 +276,6 @@
 	path = specio
 	url = https://github.com/mrc-ide/specio
 	branch = master
-[submodule "spud"]
-	path = spud
-	url = https://github.com/reside-ic/spud
-	registered = false
 [submodule "squire"]
 	path = squire
 	url = https://github.com/mrc-ide/squire

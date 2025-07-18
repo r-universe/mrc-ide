@@ -36,12 +36,6 @@
     "from": "hipercow.dide"
   },
   {
-    "package": "context",
-    "url": "https://github.com/mrc-ide/context",
-    "via": ["queuer"],
-    "from": "queuer"
-  },
-  {
     "package": "datamodelr",
     "url": "https://github.com/bergant/datamodelr",
     "via": ["hintr", "naomi"],
@@ -300,13 +294,6 @@
     "from": "moz.utils"
   },
   {
-    "package": "orderly",
-    "url": "https://github.com/vimc/orderly",
-    "via": ["orderly.sharepoint"],
-    "branch": "vimc-7135",
-    "from": "orderly.sharepoint"
-  },
-  {
     "package": "orderly1",
     "url": "https://github.com/vimc/orderly1",
     "via": ["orderlyweb"],
@@ -341,12 +328,6 @@
     "url": "https://github.com/mrc-ide/rrq",
     "via": ["hipercow"],
     "from": "hipercow"
-  },
-  {
-    "package": "spud",
-    "url": "https://github.com/reside-ic/spud",
-    "via": ["orderly.sharepoint"],
-    "from": "orderly.sharepoint"
   },
   {
     "package": "squire",

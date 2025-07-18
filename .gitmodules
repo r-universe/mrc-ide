@@ -5,7 +5,7 @@
 [submodule "EpiEstim"]
 	path = EpiEstim
 	url = https://github.com/mrc-ide/EpiEstim
-	branch = master
+	branch = main
 [submodule "SpectrumUtils"]
 	path = SpectrumUtils
 	url = https://github.com/rlglaubius/SpectrumUtils
@@ -45,7 +45,7 @@
 [submodule "context"]
 	path = context
 	url = https://github.com/mrc-ide/context
-	branch = master
+	registered = false
 [submodule "datamodelr"]
 	path = datamodelr
 	url = https://github.com/bergant/datamodelr
@@ -65,10 +65,6 @@
 [submodule "dfertility"]
 	path = dfertility
 	url = https://github.com/mrc-ide/dfertility
-	branch = master
-[submodule "didehpc"]
-	path = didehpc
-	url = https://github.com/mrc-ide/didehpc
 	branch = master
 [submodule "dqrng"]
 	path = dqrng
@@ -114,6 +110,7 @@
 	path = frogger
 	url = https://github.com/mrc-ide/frogger
 	branch = main
+	subdir = r-package
 [submodule "gonovax"]
 	path = gonovax
 	url = https://github.com/mrc-ide/gonovax
@@ -238,7 +235,7 @@
 [submodule "orderly"]
 	path = orderly
 	url = https://github.com/vimc/orderly
-	branch = master
+	registered = false
 [submodule "orderly.db"]
 	path = orderly.db
 	url = https://github.com/mrc-ide/orderly.db
@@ -247,14 +244,10 @@
 	path = orderly.sharedfile
 	url = https://github.com/mrc-ide/orderly.sharedfile
 	branch = main
-[submodule "orderly.sharepoint"]
-	path = orderly.sharepoint
-	url = https://github.com/vimc/orderly.sharepoint
-	branch = master
 [submodule "orderly1"]
 	path = orderly1
 	url = https://github.com/vimc/orderly1
-	registered = false
+	branch = master
 [submodule "orderly2"]
 	path = orderly2
 	url = https://github.com/mrc-ide/orderly2
@@ -273,12 +266,8 @@
 	branch = master
 [submodule "provisionr"]
 	path = provisionr
-	url = https://github.com/mrc-ide/provisionr
-	branch = master
-[submodule "queuer"]
-	path = queuer
-	url = https://github.com/mrc-ide/queuer
-	branch = master
+	url = https://github.com/richfitz/provisionr
+	registered = false
 [submodule "rincewind"]
 	path = rincewind
 	url = https://github.com/mrc-ide/rincewind
@@ -294,7 +283,7 @@
 [submodule "spud"]
 	path = spud
 	url = https://github.com/reside-ic/spud
-	branch = master
+	registered = false
 [submodule "squire"]
 	path = squire
 	url = https://github.com/mrc-ide/squire

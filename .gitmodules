@@ -228,10 +228,6 @@
 	path = odin2
 	url = https://github.com/mrc-ide/odin2
 	branch = main
-[submodule "orderly"]
-	path = orderly
-	url = https://github.com/vimc/orderly
-	registered = false
 [submodule "orderly.db"]
 	path = orderly.db
 	url = https://github.com/mrc-ide/orderly.db

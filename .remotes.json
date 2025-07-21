@@ -288,8 +288,8 @@
     "from": "mpoxseir"
   },
   {
-    "package": "orderly",
-    "url": "https://github.com/vimc/orderly",
+    "package": "orderly1",
+    "url": "https://github.com/vimc/orderly1",
     "via": ["moz.utils"],
     "from": "moz.utils"
   },

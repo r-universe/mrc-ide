@@ -38,6 +38,10 @@
 	path = cinterpolate
 	url = https://github.com/mrc-ide/cinterpolate
 	branch = master
+[submodule "conan"]
+	path = conan
+	url = https://github.com/mrc-ide/conan
+	branch = main
 [submodule "conan2"]
 	path = conan2
 	url = https://github.com/mrc-ide/conan2

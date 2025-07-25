@@ -155,7 +155,7 @@
 [submodule "malariaEquilibrium"]
 	path = malariaEquilibrium
 	url = https://github.com/mrc-ide/malariaEquilibrium
-	registered = false
+	branch = master
 [submodule "malariaEquilibriumVivax"]
 	path = malariaEquilibriumVivax
 	url = https://github.com/mrc-ide/malariaEquilibriumVivax

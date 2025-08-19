@@ -148,6 +148,10 @@
 	path = jsonvalidate
 	url = https://github.com/ropensci/jsonvalidate
 	branch = master
+[submodule "leapfrog"]
+	path = leapfrog
+	url = https://github.com/mrc-ide/leapfrog
+	registered = false
 [submodule "logwatch"]
 	path = logwatch
 	url = https://github.com/reside-ic/logwatch

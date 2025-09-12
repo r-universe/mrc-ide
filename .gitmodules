@@ -236,6 +236,10 @@
 	path = odin2
 	url = https://github.com/mrc-ide/odin2
 	branch = main
+[submodule "orderly"]
+	path = orderly
+	url = https://github.com/mrc-ide/orderly
+	branch = main
 [submodule "orderly.db"]
 	path = orderly.db
 	url = https://github.com/mrc-ide/orderly.db
@@ -250,12 +254,13 @@
 	branch = main
 [submodule "orderly2"]
 	path = orderly2
-	url = https://github.com/mrc-ide/orderly2
+	url = https://github.com/mrc-ide/orderly
 	branch = main
+	subdir = inst/orderly2
 [submodule "orderlyweb"]
 	path = orderlyweb
 	url = https://github.com/vimc/orderlyweb
-	branch = master
+	registered = false
 [submodule "popim"]
 	path = popim
 	url = https://github.com/mrc-ide/popim

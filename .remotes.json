@@ -318,6 +318,12 @@
     "from": "mpoxseir"
   },
   {
+    "package": "orderly",
+    "url": "https://github.com/mrc-ide/orderly",
+    "via": ["orderly2"],
+    "from": "orderly2"
+  },
+  {
     "package": "orderly1",
     "url": "https://github.com/vimc/orderly1",
     "via": ["moz.utils"],

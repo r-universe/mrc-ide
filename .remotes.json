@@ -170,12 +170,6 @@
   {
     "package": "jsonvalidate",
     "url": "https://github.com/ropensci/jsonvalidate",
-    "via": ["orderly.db", "orderly2"],
-    "from": "orderly.db"
-  },
-  {
-    "package": "jsonvalidate",
-    "url": "https://github.com/ropensci/jsonvalidate",
     "via": ["porcelain"],
     "from": "porcelain"
   },
@@ -314,6 +308,12 @@
   {
     "package": "orderly",
     "url": "https://github.com/mrc-ide/orderly",
+    "via": ["orderly.db"],
+    "from": "orderly.db"
+  },
+  {
+    "package": "orderly",
+    "url": "https://github.com/mrc-ide/orderly",
     "via": ["orderly.sharedfile"],
     "from": "orderly.sharedfile"
   },
@@ -334,12 +334,6 @@
     "url": "https://github.com/vimc/orderly1",
     "via": ["orderlyweb"],
     "from": "orderlyweb"
-  },
-  {
-    "package": "orderly2",
-    "url": "https://github.com/mrc-ide/orderly2",
-    "via": ["orderly.db"],
-    "from": "orderly.db"
   },
   {
     "package": "orderlyweb",

@@ -176,12 +176,6 @@
   {
     "package": "jsonvalidate",
     "url": "https://github.com/ropensci/jsonvalidate",
-    "via": ["orderly.sharedfile", "orderly2"],
-    "from": "orderly.sharedfile"
-  },
-  {
-    "package": "jsonvalidate",
-    "url": "https://github.com/ropensci/jsonvalidate",
     "via": ["porcelain"],
     "from": "porcelain"
   },
@@ -320,6 +314,12 @@
   {
     "package": "orderly",
     "url": "https://github.com/mrc-ide/orderly",
+    "via": ["orderly.sharedfile"],
+    "from": "orderly.sharedfile"
+  },
+  {
+    "package": "orderly",
+    "url": "https://github.com/mrc-ide/orderly",
     "via": ["orderly2"],
     "from": "orderly2"
   },
@@ -340,12 +340,6 @@
     "url": "https://github.com/mrc-ide/orderly2",
     "via": ["orderly.db"],
     "from": "orderly.db"
-  },
-  {
-    "package": "orderly2",
-    "url": "https://github.com/mrc-ide/orderly2",
-    "via": ["orderly.sharedfile"],
-    "from": "orderly.sharedfile"
   },
   {
     "package": "orderlyweb",

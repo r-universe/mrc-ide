@@ -106,11 +106,6 @@
 	path = first90
 	url = https://github.com/mrc-ide/first90release
 	branch = master
-[submodule "frogger"]
-	path = frogger
-	url = https://github.com/mrc-ide/frogger
-	branch = main
-	subdir = r-package
 [submodule "gonovax"]
 	path = gonovax
 	url = https://github.com/mrc-ide/gonovax
@@ -151,7 +146,8 @@
 [submodule "leapfrog"]
 	path = leapfrog
 	url = https://github.com/mrc-ide/leapfrog
-	registered = false
+	branch = main
+	subdir = leapfrogr
 [submodule "logwatch"]
 	path = logwatch
 	url = https://github.com/reside-ic/logwatch

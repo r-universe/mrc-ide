@@ -2,12 +2,6 @@
   {
     "package": "SpectrumUtils",
     "url": "https://github.com/rlglaubius/SpectrumUtils",
-    "via": ["frogger"],
-    "from": "frogger"
-  },
-  {
-    "package": "SpectrumUtils",
-    "url": "https://github.com/rlglaubius/SpectrumUtils",
     "via": ["leapfrog"],
     "from": "leapfrog"
   },
@@ -18,22 +12,10 @@
     "from": "eppasm"
   },
   {
-    "package": "anclik",
-    "url": "https://github.com/jeffeaton/anclik",
-    "via": ["frogger", "leapfrog", "eppasm"],
-    "from": "frogger"
-  },
-  {
     "package": "assessr",
     "url": "https://github.com/sangeetabhatia03/assessr",
     "via": ["rincewind"],
     "from": "rincewind"
-  },
-  {
-    "package": "beers",
-    "url": "https://github.com/mrc-ide/beers",
-    "via": ["frogger", "leapfrog"],
-    "from": "frogger"
   },
   {
     "package": "beers",
@@ -138,18 +120,6 @@
     "from": "eppasm"
   },
   {
-    "package": "epp",
-    "url": "https://github.com/jeffeaton/epp",
-    "via": ["frogger", "leapfrog", "eppasm"],
-    "from": "frogger"
-  },
-  {
-    "package": "eppasm",
-    "url": "https://github.com/mrc-ide/eppasm",
-    "via": ["frogger", "leapfrog"],
-    "from": "frogger"
-  },
-  {
     "package": "fakerbase",
     "url": "https://github.com/reside-ic/fakerbase",
     "via": ["vimpact"],
@@ -178,12 +148,6 @@
     "url": "https://github.com/ropensci/jsonvalidate",
     "via": ["porcelain"],
     "from": "porcelain"
-  },
-  {
-    "package": "leapfrog",
-    "url": "https://github.com/mrc-ide/leapfrog",
-    "via": ["frogger"],
-    "from": "frogger"
   },
   {
     "package": "logwatch",
@@ -334,12 +298,6 @@
     "url": "https://github.com/vimc/orderly1",
     "via": ["moz.utils"],
     "from": "moz.utils"
-  },
-  {
-    "package": "orderly1",
-    "url": "https://github.com/vimc/orderly1",
-    "via": ["orderlyweb"],
-    "from": "orderlyweb"
   },
   {
     "package": "orderlyweb",

@@ -6,6 +6,12 @@
     "from": "frogger"
   },
   {
+    "package": "SpectrumUtils",
+    "url": "https://github.com/rlglaubius/SpectrumUtils",
+    "via": ["leapfrog"],
+    "from": "leapfrog"
+  },
+  {
     "package": "anclik",
     "url": "https://github.com/jeffeaton/anclik",
     "via": ["eppasm"],

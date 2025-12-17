@@ -216,6 +216,12 @@
     "from": "hintr"
   },
   {
+    "package": "naomi.options",
+    "url": "https://github.com/mrc-ide/naomi.options",
+    "via": ["hintr"],
+    "from": "hintr"
+  },
+  {
     "package": "odin",
     "url": "https://github.com/mrc-ide/odin",
     "via": ["gonovax"],
@@ -322,6 +328,12 @@
     "url": "https://github.com/mrc-ide/squire",
     "via": ["mpoxseir"],
     "from": "mpoxseir"
+  },
+  {
+    "package": "traduire",
+    "url": "https://github.com/reside-ic/traduire",
+    "via": ["hintr", "naomi.options"],
+    "from": "hintr"
   },
   {
     "package": "traduire",

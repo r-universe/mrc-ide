@@ -269,6 +269,10 @@
 	path = provisionr
 	url = https://github.com/richfitz/provisionr
 	registered = false
+[submodule "qs"]
+	path = qs
+	url = https://github.com/qsbase/qs
+	registered = false
 [submodule "rincewind"]
 	path = rincewind
 	url = https://github.com/mrc-ide/rincewind

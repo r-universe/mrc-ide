@@ -318,6 +318,12 @@
     "from": "nomad"
   },
   {
+    "package": "qs",
+    "url": "https://github.com/qsbase/qs",
+    "via": ["naomi"],
+    "from": "naomi"
+  },
+  {
     "package": "rrq",
     "url": "https://github.com/mrc-ide/rrq",
     "via": ["hipercow"],

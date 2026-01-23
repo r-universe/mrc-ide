@@ -320,6 +320,12 @@
   {
     "package": "qs",
     "url": "https://github.com/qsbase/qs",
+    "via": ["hintr", "naomi"],
+    "from": "hintr"
+  },
+  {
+    "package": "qs",
+    "url": "https://github.com/qsbase/qs",
     "via": ["naomi"],
     "from": "naomi"
   },

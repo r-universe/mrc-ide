@@ -6,14 +6,6 @@
 	path = EpiEstim
 	url = https://github.com/mrc-ide/EpiEstim
 	branch = main
-[submodule "SpectrumUtils"]
-	path = SpectrumUtils
-	url = https://github.com/rlglaubius/SpectrumUtils
-	registered = false
-[submodule "anclik"]
-	path = anclik
-	url = https://github.com/jeffeaton/anclik
-	registered = false
 [submodule "ascertainr"]
 	path = ascertainr
 	url = https://github.com/mrc-ide/ascertainr
@@ -46,10 +38,6 @@
 	path = conan2
 	url = https://github.com/mrc-ide/conan2
 	branch = main
-[submodule "datamodelr"]
-	path = datamodelr
-	url = https://github.com/bergant/datamodelr
-	registered = false
 [submodule "dde"]
 	path = dde
 	url = https://github.com/mrc-ide/dde
@@ -90,18 +78,10 @@
 	path = epireview
 	url = https://github.com/mrc-ide/epireview
 	branch = main
-[submodule "epp"]
-	path = epp
-	url = https://github.com/jeffeaton/epp
-	registered = false
 [submodule "eppasm"]
 	path = eppasm
 	url = https://github.com/mrc-ide/eppasm
 	branch = master
-[submodule "fakerbase"]
-	path = fakerbase
-	url = https://github.com/reside-ic/fakerbase
-	registered = false
 [submodule "first90"]
 	path = first90
 	url = https://github.com/mrc-ide/first90release
@@ -253,10 +233,6 @@
 	url = https://github.com/mrc-ide/orderly
 	branch = main
 	subdir = inst/orderly2
-[submodule "orderlyweb"]
-	path = orderlyweb
-	url = https://github.com/vimc/orderlyweb
-	registered = false
 [submodule "popim"]
 	path = popim
 	url = https://github.com/mrc-ide/popim
@@ -265,14 +241,6 @@
 	path = porcelain
 	url = https://github.com/reside-ic/porcelain
 	branch = master
-[submodule "provisionr"]
-	path = provisionr
-	url = https://github.com/richfitz/provisionr
-	registered = false
-[submodule "qs"]
-	path = qs
-	url = https://github.com/qsbase/qs
-	registered = false
 [submodule "rincewind"]
 	path = rincewind
 	url = https://github.com/mrc-ide/rincewind
@@ -285,10 +253,6 @@
 	path = specio
 	url = https://github.com/mrc-ide/specio
 	branch = master
-[submodule "squire"]
-	path = squire
-	url = https://github.com/mrc-ide/squire
-	registered = false
 [submodule "syncr"]
 	path = syncr
 	url = https://github.com/mrc-ide/syncr

@@ -6,6 +6,10 @@
 	path = EpiEstim
 	url = https://github.com/mrc-ide/EpiEstim
 	branch = main
+[submodule "anclik"]
+	path = anclik
+	url = https://github.com/jeffeaton/anclik
+	branch = master
 [submodule "ascertainr"]
 	path = ascertainr
 	url = https://github.com/mrc-ide/ascertainr
@@ -78,6 +82,10 @@
 	path = epireview
 	url = https://github.com/mrc-ide/epireview
 	branch = main
+[submodule "epp"]
+	path = epp
+	url = https://github.com/jeffeaton/epp
+	branch = master
 [submodule "eppasm"]
 	path = eppasm
 	url = https://github.com/mrc-ide/eppasm

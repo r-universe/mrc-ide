@@ -196,6 +196,10 @@
 	path = naomi.utils
 	url = https://github.com/mrc-ide/naomi.utils
 	branch = master
+[submodule "naomi.zaf"]
+	path = naomi.zaf
+	url = https://github.com/mrc-ide/naomi.zaf
+	branch = main-zaf
 [submodule "nomad"]
 	path = nomad
 	url = https://github.com/reconhub/nomad
